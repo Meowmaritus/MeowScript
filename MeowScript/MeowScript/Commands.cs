@@ -19,7 +19,7 @@ namespace MeowScript
 		{
 			if (!File.Exists(ConfigININame))
 			{
-				using (Stream stream = typeof(Commands).Assembly.GetManifestResourceStream(string.Format("{0}.MeowScript_Config.ini", "MeowScript")))
+				using (Stream stream = typeof(Commands).Assembly.GetManifestResourceStream($"{nameof(MeowScript)}.MeowScript_Config.ini"))
 				{
 					using (FileStream fs = File.OpenWrite(ConfigININame))
 					{
@@ -42,12 +42,14 @@ namespace MeowScript
 			{
 				string inputText = File.ReadAllText(inputFile);
 				string[] inputLines = inputText.Split('\n');
-				List<ValueTuple<string, string>> cur_PackageDestinations = new List<ValueTuple<string, string>>();
-				List<ValueTuple<int, string, string, bool, bool>> cur_LUAINFO = new List<ValueTuple<int, string, string, bool, bool>>();
-				IEnumerable<string> specialTokens = from x in inputLines
-				select x.Trim() into x
-				where x.StartsWith("--@")
-				select x;
+				var cur_PackageDestinations = new List<(string, string)>();
+				var cur_LUAINFO = new List<(int, string, string, bool, bool)>();
+                var cur_ExtraGnlEntries = new Dictionary<string, List<string>>();
+
+                var specialTokens = inputLines
+                    .Select(x => x.Trim())
+                    .Where(x => x.StartsWith("--@"));
+
 				foreach (string item in specialTokens)
 				{
 					int colonIndex = item.IndexOf(':');
@@ -56,32 +58,56 @@ namespace MeowScript
 						throw new Exception($"Invalid special token comment in lua script: \"{item}\"");
 					}
 					string tokenName = item.Substring("--@".Length, colonIndex - "--@".Length).ToLower();
-					string[] tokenParams = (from x in item.Substring(colonIndex + 1).Split(',')
-					select x.Trim()).ToArray();
+					string[] tokenParams = item
+                        .Substring(colonIndex + 1)
+                        .Split(',')
+					    .Select(x => x.Trim())
+                        .ToArray();
+
 					if (tokenName == "package")
 					{
-						cur_PackageDestinations.Add(new ValueTuple<string, string>(Utils.RemoveExtension(tokenParams[0], ".luabnd"), Utils.RemoveExtension(tokenParams[1], ".lua")));
+						cur_PackageDestinations.Add((Utils.RemoveExtension(tokenParams[0], ".luabnd"), Utils.RemoveExtension(tokenParams[1], ".lua")));
 					}
 					else if (tokenName == "battle_goal")
 					{
-						cur_LUAINFO.Add(new ValueTuple<int, string, string, bool, bool>(int.Parse(tokenParams[0]), tokenParams[1], null, true, false));
+						cur_LUAINFO.Add((int.Parse(tokenParams[0]), tokenParams[1], null, true, false));
 					}
 					else if (tokenName == "logic_goal")
 					{
-						cur_LUAINFO.Add(new ValueTuple<int, string, string, bool, bool>(int.Parse(tokenParams[0]), tokenParams[1], tokenParams[2], false, true));
+						cur_LUAINFO.Add((int.Parse(tokenParams[0]), tokenParams[1], tokenParams[2], false, true));
 					}
-					else if (tokenName == "misc_goal")
-					{
-						cur_LUAINFO.Add(new ValueTuple<int, string, string, bool, bool>(int.Parse(tokenParams[0]), tokenParams[1], null, false, false));
-					}
-				}
-				foreach (ValueTuple<string, string> item2 in cur_PackageDestinations)
+                    else if (tokenName == "misc_goal")
+                    {
+                        cur_LUAINFO.Add((int.Parse(tokenParams[0]), tokenParams[1], null, false, false));
+                    }
+                    else if (tokenName == "gnl_entry")
+                    {
+                        if (!cur_ExtraGnlEntries.ContainsKey(tokenParams[0]))
+                        {
+                            cur_ExtraGnlEntries.Add(tokenParams[0], new List<string>());
+                        }
+                        cur_ExtraGnlEntries[tokenParams[0]].Add(tokenParams[1]);
+                    }
+                }
+                foreach (var extraGnlEntry in cur_ExtraGnlEntries)
+                {
+                    LUABND luabnd = LUABND.Load(DarkSoulsDataPath, extraGnlEntry.Key);
+                    foreach (var gnlEntry in extraGnlEntry.Value)
+                    {
+                        if (!luabnd.GlobalVariableNames.Any((StringRef x) => x.Value == gnlEntry))
+                        {
+                            luabnd.GlobalVariableNames.Add(gnlEntry);
+                        }
+                    }
+                    LUABND.Save(luabnd, DarkSoulsDataPath, extraGnlEntry.Key);
+                }
+				foreach (var packageDest in cur_PackageDestinations)
 				{
-					LUABND luabnd = LUABND.Load(DarkSoulsDataPath, item2.Item1);
+					LUABND luabnd = LUABND.Load(DarkSoulsDataPath, packageDest.Item1);
 					List<string> compilationErrors = new List<string>();
 					List<string> luaGnlCheckErrors = new List<string>();
 					List<string> luaGnlEntries = new List<string>();
-					luabnd.AddOrUpdateScript(item2.Item2, inputText, compilationErrors, luaGnlCheckErrors, luaGnlEntries);
+					luabnd.AddOrUpdateScript(packageDest.Item2, inputText, compilationErrors, luaGnlCheckErrors, luaGnlEntries);
 					if (compilationErrors.Count > 0)
 					{
 						Console.WriteLine("COMPILE ERRORS:");
@@ -100,16 +126,16 @@ namespace MeowScript
 						}
 						throw new Exception();
 					}
-					foreach (string item5 in luaGnlEntries)
+					foreach (var gnlEntry in luaGnlEntries)
 					{
-						if (!luabnd.GlobalVariableNames.Any((StringRef x) => x.Value == item5))
+						if (!luabnd.GlobalVariableNames.Any((StringRef x) => x.Value == gnlEntry))
 						{
-							luabnd.GlobalVariableNames.Add(item5);
+							luabnd.GlobalVariableNames.Add(gnlEntry);
 						}
 					}
-					foreach (ValueTuple<int, string, string, bool, bool> item6 in cur_LUAINFO)
+					foreach (var infoEntry in cur_LUAINFO)
 					{
-						luainfoEntry = item6;
+						luainfoEntry = infoEntry;
 						if (!luabnd.Goals.Any((Goal x) => x.ID == luainfoEntry.Item1))
 						{
 							luabnd.Goals.Add(new Goal
@@ -122,7 +148,7 @@ namespace MeowScript
 							});
 						}
 					}
-					LUABND.Save(luabnd, DarkSoulsDataPath, item2.Item1);
+					LUABND.Save(luabnd, DarkSoulsDataPath, packageDest.Item1);
 				}
 			}
 			return true;
