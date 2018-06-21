@@ -1,0 +1,3021 @@
+[1] GOAL_RESULT_Success
+    Registered Name: Normal
+    No Update: True
+
+[2] GOAL_COMMON_Stay
+    Registered Name: Stay
+
+[3] SP_EFFECT_TYPE_LEECH
+    Registered Name: WalkAround
+
+[4] SP_EFFECT_TYPE_SPOIL
+    Registered Name: BackToHome
+
+[5] GOAL_COMMON_NonBattleAct
+    Registered Name: NonBattleAct
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    Parameter Names:
+        ìGÇ¢ÇΩÇÁèIóπÅH
+        ëñÇÈÅH
+        ê˘âÒÅyTYPEÅz
+        ëÉÇÃìûíÖãóó£ÅymÅz
+        ë“ã@éûÉSÅ[Éã
+        ìGÇ…îΩâûÇ∑ÇÈãóó£ÅymÅz
+
+[103001] GOAL_Debu103001_Battle
+    Registered Name: debu103001Battle
+    No Update: True
+
+[305091] GOAL_Gagoiru305000_AirBattle
+    Registered Name: Gagoiru305000AirBattle
+    No Interupt: True
+    No Update: True
+
+[310000] GOAL_mimizu310000_Battle
+    Registered Name: mimizu310000_Battle
+    No Interupt: True
+    No Update: True
+
+[305092] GOAL_Gagoiru305000_LandingAttack
+    Registered Name: Gagoiru305000Battle_LandingAttack
+    No Interupt: True
+    No Update: True
+
+[837000] GOAL_TroisM_A837000_Battle
+    Registered Name: TroisM_A837000Battle
+    No Update: True
+
+[503100] GOAL_koei_503100_Battle
+    Registered Name: koei_503100Battle
+    No Interupt: True
+    No Update: True
+
+[305093] GOAL_Gagoiru305000_BowgunAttack
+    Registered Name: Gagoiru305000Battle_BowgunAttack
+    No Interupt: True
+    No Update: True
+
+[200010] GOAL_IppanLONG200010_Battle
+    Registered Name: ippanLONG200010Battle
+    No Update: True
+
+[10000] LOGIC_ID_Hanyou10000
+    Logic Function Name: hanyou10000_Logic
+    Logic Interupt Function Name: hanyou10000_Interupt
+
+[305094] GOAL_Gagoiru305000_LiftOff
+    Registered Name: Gagoiru305000Battle_LiftOff
+    No Interupt: True
+
+[824000] GOAL_Sinto1_824000_Battle
+    Registered Name: sinto1_824000Battle
+    No Update: True
+
+[313000] GOAL_kuma313000_Battle
+    Registered Name: kuma313000_Battle
+
+[211008] GOAL_uroko211008_Battle
+    Registered Name: uroko211008Battle
+    No Update: True
+
+[501000] GOAL_Ounotate501000_Battle
+    Registered Name: ounotate501000Battle
+
+[313002] GOAL_kuma313002_Battle
+    Registered Name: kuma313002_Battle
+    No Update: True
+
+[200012] GOAL_IppanLONG_B200012_Battle
+    Registered Name: ippanLONG_B200012Battle
+    No Update: True
+
+[211009] LOGIC_ID_uroko211009
+    Logic Function Name: uroko211009_Logic
+    Logic Interupt Function Name: uroko211009_Interupt
+
+[311091] GOAL_tokage311010_Hide
+    Registered Name: tokage311010Hide
+    No Interupt: True
+    No Update: True
+
+[313004] GOAL_kuma313004_Battle
+    Registered Name: kuma313004Battle
+    No Update: True
+
+[2000] GOAL_COMMON_Wait
+    Registered Name: Wait
+
+[211010] GOAL_uroko_COMMON_Wait
+    Registered Name: UROKOWait
+    No Interupt: True
+    No Update: True
+
+[504000] GOAL_Sinpansya504000_Battle
+    Registered Name: Sinpansya504000Battle
+
+[2001] GOAL_COMMON_Turn
+    Registered Name: Turn
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+    Parameter Names:
+        ê≥ñ îªíËäpìx
+        ê˘âÒÉ^Å[ÉQÉbÉg
+
+[313006] LOGIC_ID_HaneKuma313006
+    Logic Function Name: SpHaneKuma313006_Logic
+    Logic Interupt Function Name: SpHaneKuma313006_Interupt
+
+[2002] GOAL_COMMON_TurnAround
+    Registered Name: TurnAround
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        ëŒè€ÇÃï˚å¸ÅyTypeÅz
+        äpìxÅyìxÅz
+        ï‡Ç≠?
+        éıñΩÇ≈ê¨å˜ÅH
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[313007] GOAL_kuma_ApproachXZAndFall
+    Registered Name: ApproachXZAndFall
+    No Interupt: True
+    No Update: True
+
+[0] TARGET_ENE_0
+    Registered Name: TopGoal
+    No Update: True
+    Logic Function Name: Default_Logic
+    Logic Interupt Function Name: Default_Interupt
+
+[402003] GOAL_honeTAIKEN402003_Battle
+    Registered Name: honeTAIKEN402003Battle
+    No Update: True
+
+[212000] GOAL_kagebito212000_Battle
+    Registered Name: kagebito212000_Battle
+
+[804000] GOAL_UruBlockNPC_804000_Battle
+    Registered Name: UruBlockNPC_804000Battle
+    No Update: True
+
+[303000] GOAL_Taka303000_Battle
+    Registered Name: taka303000Battle
+    No Interupt: True
+    No Update: True
+
+[823000] GOAL_Majutu_823000_Battle
+    Registered Name: majutu_823000Battle
+    No Update: True
+
+[402005] GOAL_honeNITOU402005_Battle
+    Registered Name: honeNITOU402005Battle
+    No Update: True
+
+[212001] GOAL_kagebito212001_Battle
+    Registered Name: kagebito212001_Battle
+
+[403090] GOAL_Tako403000_ThrowComboApproach
+    Registered Name: Tako403000TCA
+    No Interupt: True
+    No Update: True
+
+[403091] GOAL_Tako403000_Throw
+    Registered Name: Tako403000Throw
+    No Interupt: True
+    No Update: True
+
+[306000] GOAL_Nezumi306000_Battle
+    Registered Name: Nezumi306000Battle
+    No Update: True
+
+[829000] GOAL_Tomas_829000_Battle
+    Registered Name: tomas_829000Battle
+    No Update: True
+
+[2100] GOAL_COMMON_Attack
+    Registered Name: Attack
+
+[2101] GOAL_COMMON_Guard
+    Registered Name: Guard
+
+[2102] GOAL_COMMON_ComboAttack
+    Registered Name: ComboAttack
+
+[2103] GOAL_COMMON_GuardBreakAttack
+    Registered Name: GuardBreakAttack
+
+[2104] GOAL_COMMON_NonspinningAttack
+    Registered Name: NonspinningAttack
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        EzStateî‘çÜ
+
+[309000] GOAL_Ooka309000_Battle
+    Registered Name: Ooka309000Battle
+    No Update: True
+
+[2105] GOAL_COMMON_ContinueAttack
+    Registered Name: ContinueAttack
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyÇçÅz
+        ñΩíÜÇµÇΩÇÁê¨å˜ÅH
+        EzStateî‘çÜ
+
+[207000] GOAL_Ryosyu207000_Battle
+    Registered Name: Ryosyu207000Battle
+    No Update: True
+    Logic Function Name: Ryosyu207000_Logic
+    Logic Interupt Function Name: Ryosyu207000_Interupt
+
+[835000] GOAL_TutorialHG_835000_Battle
+    Registered Name: TutorialHG_835000Battle
+    No Update: True
+
+[2107] GOAL_COMMON_ApproachStep
+    Registered Name: ApproachStep
+
+[2108] GOAL_COMMON_UseItem
+    Registered Name: UseItem
+    No Interupt: True
+    No Update: True
+
+[200020] GOAL_Kisi200020_Battle
+    Registered Name: kisi200020Battle
+    No Update: True
+
+[2109] GOAL_COMMON_DashAttack
+    Registered Name: DashAttack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        çUåÇäJénãóó£ÅymÅz
+        çUåÇEzStateî‘çÜ
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[2110] GOAL_COMMON_DashAttack_Attack
+    Registered Name: DashAttack_Attack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        çUåÇEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[2015] GOAL_COMMON_ApproachTarget
+    Registered Name: ApproachTarget
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        ìûíBîªíËãóó£ÅymÅz
+        ê˘âÒëŒè€ÅyTypeÅz
+        ï‡Ç≠?
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[822000] GOAL_Doran_822000_Battle
+    Registered Name: doran_822000Battle
+    No Update: True
+
+[312000] GOAL_Yamori312000_Battle
+    Registered Name: Yamori312000Battle
+    No Update: True
+
+[2016] GOAL_COMMON_LeaveTarget
+    Registered Name: LeaveTarget
+
+[2113] GOAL_COMMON_Parry
+    Registered Name: Parry
+
+[213090] GOAL_kageonna213000_SneakAttack
+    Registered Name: kageonna213000_SneakAttack
+    No Update: True
+
+[207002] GOAL_Ryosyu207002_Battle
+    Registered Name: Ryosyu207002Battle
+    No Update: True
+
+[2017] GOAL_COMMON_SidewayMove
+    Registered Name: SidewayMove
+
+[2018] GOAL_COMMON_KeepDist
+    Registered Name: KeepDist
+
+[213091] GOAL_kageonna213000_SA_Attack
+    Registered Name: kageonna213000_SA_Attack
+    No Interupt: True
+    No Update: True
+
+[207003] GOAL_Ryosyu207003_Battle
+    Registered Name: Ryosyu207003Battle
+    No Update: True
+
+[2019] GOAL_COMMON_MoveToSomewhere
+    Registered Name: MoveToSomewhere
+
+[828000] GOAL_Monosiri_828000_Battle
+    Registered Name: monosiri_828000Battle
+    No Update: True
+
+[2020] GOAL_COMMON_SpinStep
+    Registered Name: SpinStep
+
+[210000] GOAL_Huhai210000_Battle
+    Registered Name: Huhai210000Battle
+    No Update: True
+    Logic Function Name: Huhai210000_Logic
+    Logic Interupt Function Name: Huhai210000_Interupt
+
+[401000] GOAL_sinigami401000_Battle
+    Registered Name: sinigami401000Battle
+    No Update: True
+
+[2021] GOAL_COMMON_Fall
+    Registered Name: Fall
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        óéâ∫äJénEzStateî‘çÜ
+        óéâ∫í‚é~EzStateî‘çÜ
+        óéâ∫í‚é~É}Å[ÉWÉì[m]
+        É^Å[ÉQÉbÉgÅyTypeÅz
+
+[202000] GOAL_Kisi202000_Battle
+    Registered Name: kisi202000Battle
+    No Update: True
+
+[713000] GOAL_kajiyaK_713000_Battle
+    Registered Name: kajiyaK_713000Battle
+    No Update: True
+
+[713001] GOAL_KajiSekichu_713001_Battle
+    Registered Name: kajiSekichu_713001Battle
+    No Update: True
+
+[207005] GOAL_Ryosyu207005_Battle
+    Registered Name: Ryosyu207005Battle
+    No Update: True
+    Logic Function Name: Ryosyu207005_Logic
+    Logic Interupt Function Name: Ryosyu207005_Interupt
+
+[834000] GOAL_KoudouBG_834000_Battle
+    Registered Name: KoudouBG_834000Battle
+    No Update: True
+
+[318000] GOAL_Chidani318000_Battle
+    Registered Name: Chidani318000Battle
+    No Interupt: True
+    No Update: True
+
+[202001] GOAL_Kisi202001_Battle
+    Registered Name: kisi202001Battle
+    No Update: True
+
+[210002] GOAL_Huhai210002_Battle
+    Registered Name: Huhai210002Battle
+    No Update: True
+
+[307100] GOAL_Namekuji307100_Battle
+    Registered Name: Namekuji307100Battle
+    No Update: True
+
+[207001] GOAL_RyosyuSINJA207001_Battle
+    Registered Name: ryosyuSINJA207001Battle
+    No Update: True
+
+[500100] GOAL_FaranHONTAI500100_Battle
+    Registered Name: FaranHONTAI500100Battle
+    No Update: True
+
+[836000] GOAL_RouBG_836000_Battle
+    Registered Name: RouBG_836000Battle
+    No Update: True
+
+[202002] GOAL_Kisi202002_Battle
+    Registered Name: kisi202002Battle
+    No Update: True
+
+[811000] GOAL_syujin811000_Battle
+    Registered Name: syujin811000Battle
+    No Update: True
+
+[506000] GOAL_Kamisama506000_Battle
+    Registered Name: kamisama506000Battle
+    No Update: True
+
+[210003] GOAL_Huhai210003_Battle
+    Registered Name: Huhai210003Battle
+    No Update: True
+
+[307000] GOAL_Namekuji307000_Battle
+    Registered Name: Namekuji307000Battle
+    No Update: True
+
+[830000] GOAL_satuki830000_Battle
+    Registered Name: satuki830000Battle
+    No Update: True
+
+[603100] GOAL_Okina603100_Battle
+    Registered Name: Okina603100Battle
+    No Update: True
+
+[825000] GOAL_Sinto2_825000_Battle
+    Registered Name: sinto2_825000Battle
+    No Update: True
+
+[821000] GOAL_Majo_821000_Battle
+    Registered Name: majo_821000Battle
+    No Update: True
+
+[213000] GOAL_kageonna213000_Battle
+    Registered Name: kageonna213000_Battle
+    No Update: True
+    Logic Function Name: KageOnna213000_Logic
+    Logic Interupt Function Name: KageOnna213000_Interupt
+
+[604000] GOAL_Libra604000_Battle
+    Registered Name: Libra604000Battle
+    No Update: True
+
+[305000] LOGIC_ID_Gagoiru305000
+    Registered Name: Gagoiru305000Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: Gagoiru305000_Logic
+    Logic Interupt Function Name: Gagoiru305000_Interupt
+
+[808001] LOGIC_ID_Biyo808001
+    Logic Function Name: Biyo808001_Logic
+    Logic Interupt Function Name: Biyo808001_Interupt
+
+[820000] GOAL_Selen_820000_Battle
+    Registered Name: Selen_820000Battle
+    No Update: True
+
+[210100] GOAL_Daihuhai210100_Battle
+    Registered Name: Daihuhai210100Battle
+    No Update: True
+
+[819000] GOAL_Vilidel_819000_Battle
+    Registered Name: Vilidel_819000Battle
+    No Update: True
+
+[818000] GOAL_Yuruto_818000_Battle
+    Registered Name: yuruto_818000Battle
+    No Update: True
+
+[817000] GOAL_Rogan_817000_Battle
+    Registered Name: rogan_817000Battle
+    No Update: True
+
+[816004] GOAL_GalV_816000_Battle
+    Registered Name: GalV_816000Battle
+    No Update: True
+
+[210005] LOGIC_ID_Huhai210005
+    Registered Name: Huhai210005Battle
+    No Update: True
+    Logic Function Name: Huhai210005_Logic
+    Logic Interupt Function Name: Huhai210005_Interupt
+
+[816003] GOAL_GalV_816000_Battle_Guard
+    Registered Name: GalV_816000Battle_Guard
+    No Update: True
+
+[816002] GOAL_GalV_816000_Battle_Retreat
+    Registered Name: GalV_816000Battle_Retreat
+    No Update: True
+
+[816001] GOAL_GalV_816000_Battle_Forward
+    Registered Name: GalV_816000Battle_Fwd
+    No Interupt: True
+    No Update: True
+
+[816005] GOAL_GalV_816000_NonBattle
+    Registered Name: GalV_816000NonBattle
+    No Interupt: True
+    No Update: True
+
+[816000] GOAL_GalV_816000_Battle_Main
+    Registered Name: GalV_816000Battle_Main
+    No Interupt: True
+    No Update: True
+    Logic Function Name: GalV816000_Logic
+    Logic Interupt Function Name: GalV816000_Interupt
+
+[814000] GOAL_Urubein_814000_Battle
+    Registered Name: urubein_814000Battle
+    No Update: True
+
+[308000] GOAL_Kurage308000_Battle
+    Registered Name: Kurage308000Battle
+    No Update: True
+
+[103091] GOAL_Debu103001_SafeApproach
+    Registered Name: debu103001SafeApproach
+    No Update: True
+
+[815000] GOAL_half815000_Battle
+    Registered Name: half815000Battle
+    No Update: True
+
+[211090] GOAL_uroko_ThrowRock
+    Registered Name: uroko_ThrowRock
+    No Interupt: True
+    No Update: True
+
+[833000] GOAL_OKINA_833000_Battle
+    Registered Name: OKINA_833000Battle
+    No Update: True
+
+[810000] GOAL_pachi810000_Battle
+    Registered Name: pachi810000Battle
+    No Update: True
+
+[809090] GOAL_pachi809000_MoveToTreasure
+    Registered Name: pachi809000MTT
+    No Interupt: True
+    No Update: True
+
+[809000] GOAL_pachi809000_Battle
+    Registered Name: pachi809000Battle
+    No Update: True
+    Logic Function Name: Patch809000_Logic
+    Logic Interupt Function Name: Patch809000_Interupt
+
+[808000] GOAL_Biyo_808000_Battle
+    Registered Name: biyo_808000Battle
+    No Update: True
+
+[801000] GOAL_NpcKISI_A801000_Battle
+    Registered Name: npcKISI_A801000Battle
+    No Update: True
+
+[213099] GOAL_kageonna213000_NonBattle
+    Registered Name: kageonna213000_NonBattle
+    No Update: True
+
+[708000] GOAL_Kaname_708000_Battle
+    Registered Name: kaname_708000Battle
+    No Update: True
+
+[807000] GOAL_Ouji_807000_Battle
+    Registered Name: ouji_807000Battle
+    No Update: True
+    Logic Function Name: ouji_807000_Logic
+    Logic Interupt Function Name: ouji_807000_Interupt
+
+[805000] GOAL_Kokoro_805000_Battle
+    Registered Name: kokoro_805000Battle
+    No Update: True
+
+[510091] GOAL_kumo510000_Blaze
+    Registered Name: kumo510000Blaze
+    No Interupt: True
+    No Update: True
+
+[311000] LOGIC_ID_tokage311000
+    Registered Name: tokage311000_Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: tokage311000_Logic
+    Logic Interupt Function Name: tokage311000_Interupt
+
+[803000] GOAL_NpcKISI_C803000_Battle
+    Registered Name: npcKISI_C803000Battle
+    No Update: True
+
+[802000] GOAL_NpcKISI_B802000_Battle
+    Registered Name: npcKISI_B802000Battle
+    No Update: True
+
+[208000] GOAL_Gokuri208000_Battle
+    Registered Name: gokuri208000Battle
+    No Update: True
+
+[839000] GOAL_Fujo2BG_839000_Battle
+    Registered Name: Fujo2BG_839000Battle
+    No Update: True
+
+[402100] GOAL_honeKEN402100_Battle
+    Registered Name: honeKEN402100Battle
+    No Update: True
+
+[723000] GOAL_King723000_Battle
+    Registered Name: king723000Battle
+    No Update: True
+
+[715000] GOAL_Heroine_715000_Battle
+    Registered Name: heroine_715000Battle
+    No Update: True
+    Logic Function Name: heroine_715000_Logic
+    Logic Interupt Function Name: heroine_715000_Interupt
+
+[200000] LOGIC_ID_Dorei200000
+    Registered Name: doreiTANKEN200000Battle
+    No Update: True
+    Logic Function Name: Dorei200000_Logic
+    Logic Interupt Function Name: Dorei200000_Interupt
+
+[402101] GOAL_honeBOU402101_Battle
+    Registered Name: honeBOU402101Battle
+    No Update: True
+
+[305095] GOAL_Gagoiru305000_LandingOnGround
+    Registered Name: Gagoiru305000LandingOnGround
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[807001] GOAL_Ouji_807001_Battle
+    Registered Name: ouji_807001Battle
+    No Update: True
+
+[605001] GOAL_DD605001_Battle
+    Registered Name: DD605001Battle
+
+[604100] GOAL_Fujou604100_Battle
+    Registered Name: Fujou604100Battle
+    No Update: True
+
+[826000] GOAL_Sinto3_826000_Battle
+    Registered Name: sinto3_826000Battle
+    No Update: True
+
+[500001] GOAL_FaranCIBI_B500001_Battle
+    Registered Name: FaranCIBI_B500001Battle
+    No Update: True
+
+[500000] GOAL_FaranCIBI500000_Battle
+    Registered Name: FaranCIBI500000Battle
+    No Interupt: True
+    No Update: True
+
+[511000] GOAL_seirei511000_Battle
+    Registered Name: seirei511000Battle
+    No Update: True
+
+[210010] GOAL_Huhai_COMMON_Wait
+    Registered Name: HUHAIWait
+    No Interupt: True
+    No Update: True
+
+[208002] GOAL_Gokuri208002_Battle
+    Registered Name: Gokuri208002Battle
+    No Update: True
+
+[400000] GOAL_Narisoko400000_Battle
+    Registered Name: narisoko400000Battle
+    No Update: True
+
+[510092] GOAL_kumo510000_FeelerAttack
+    Registered Name: kumo510000FeelerAttack
+    No Update: True
+
+[510000] LOGIC_ID_kumo510000
+    Registered Name: kumo510000Battle
+    No Update: True
+    Logic Function Name: kumo510000_Logic
+    Logic Interupt Function Name: kumo510000_Interupt
+
+[509000] GOAL_Hiru509000_Battle
+    Registered Name: Hiru509000Battle
+    No Update: True
+
+[508000] GOAL_Haetakari508000_Battle
+    Registered Name: Haetakari508000Battle
+    No Update: True
+
+[507100] GOAL_Mukade507100_Battle
+    Registered Name: Mukade507100Battle
+    No Update: True
+
+[507000] GOAL_Mukade507000_Battle
+    Registered Name: Mukade507000Battle
+    No Update: True
+
+[208003] GOAL_Gokuri208003_Battle
+    Registered Name: Gokuri208003Battle
+    No Update: True
+
+[506001] GOAL_Nisekamisama506001_Battle
+    Registered Name: nisekamisama506001Battle
+    No Update: True
+
+[832000] GOAL_Miralda_832000_Battle
+    Registered Name: Miralda_832000Battle
+    No Update: True
+
+[503101] GOAL_koei_503101_Battle
+    Registered Name: koei_503101Battle
+    No Update: True
+
+[503000] GOAL_akemono503000_Battle
+    Registered Name: akemono503000Battle
+
+[502000] GOAL_Ounoken502000_Battle
+    Registered Name: Ounoken502000Battle
+    No Update: True
+
+[211000] LOGIC_ID_urokoP211000
+    Registered Name: urokoP211000_Battle
+    No Update: True
+    Logic Function Name: urokoP211000_Logic
+    Logic Interupt Function Name: urokoP211000_Interupt
+
+[800000] GOAL_Wizard800000_Battle
+    Registered Name: Wizard800000Battle
+    No Update: True
+
+[301000] GOAL_Gunyou301000_Battle
+    Registered Name: gunyou301000Battle
+    No Update: True
+
+[405000] GOAL_Honokaijin405000_Battle
+    Registered Name: Honokaijin405000Battle
+    No Update: True
+
+[12010] GOAL_NpcPlayerTest_Battle
+    Registered Name: NpcPlayerTestBattle
+    No Update: True
+
+[203000] GOAL_Ansatu203000_Battle
+    Registered Name: ansatu203000Battle
+    No Update: True
+
+[305081] GOAL_Gagoiru305000_Battle_Landing
+    Registered Name: Gagoiru305000Battle_Landing
+    No Interupt: True
+    No Update: True
+
+[311010] GOAL_tokage311010_Battle
+    Registered Name: tokage311010Battle
+    No Update: True
+
+[211001] LOGIC_ID_urokoF211001
+    Registered Name: urokoF211001_Battle
+    No Update: True
+    Logic Function Name: urokoF211001_Logic
+    Logic Interupt Function Name: urokoF211001_Interupt
+
+[201000] GOAL_IppanLONG201000_Battle
+    Registered Name: ippanLONG201000Battle
+    No Update: True
+
+[305082] GOAL_Gagoiru305000_Battle_Landing_Move
+    Registered Name: Gagoiru305000Battle_Landing_Move
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[838000] GOAL_TroisM_B838000_Battle
+    Registered Name: TroisM_B838000Battle
+    No Update: True
+
+[2112] GOAL_COMMON_Attack3
+    Registered Name: Attack3
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        çUåÇëOê˘âÒéûä‘ÅyïbÅz
+        ê≥ñ îªíËäpìxÅyìxÅz
+        ïKÇ∏ê¨å˜Ç∑ÇÈÇ©ÅH
+        EzStateî‘çÜ
+
+[201001] GOAL_IppanLONG_B201001_Battle
+    Registered Name: ippanLONG_B201001Battle
+    No Update: True
+
+[305083] GOAL_Gagoiru305000_Battle_Landing_Landing
+    Registered Name: Gagoiru305000Battle_Landing_Landing
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[200005] GOAL_DoreiTANKEN_B200005_Battle
+    Registered Name: doreiTANKEN_B200005Battle
+    No Update: True
+
+[602000] GOAL_ArasiSensi602000_Battle
+    Registered Name: ArasiSensi602000Battle
+    No Update: True
+    Logic Function Name: ArasiSensi602000_Logic
+    Logic Interupt Function Name: ArasiSensi602000_Interupt
+
+[304000] GOAL_Kimera304000_Battle
+    Registered Name: Kimera304000Battle
+    No Update: True
+
+[602001] GOAL_ArasiSensi602000_NonBattle
+    Registered Name: ArasiSensi602000NonBattle
+    No Interupt: True
+    No Update: True
+
+[11000] GOAL_Nanimosinai11000_Battle
+    Registered Name: Nanimosinai11000Battle
+    No Update: True
+    Logic Function Name: Nanimosinai11000_Logic
+    Logic Interupt Function Name: Nanimosinai11000_Interupt
+
+[403000] GOAL_Tako403000_Battle
+    Registered Name: Tako403000Battle
+    No Update: True
+    Logic Function Name: Tako403000_Logic
+    Logic Interupt Function Name: Tako403000_Interupt
+
+[304001] GOAL_Kimera304000_Battle_FlyLeaveAndApproach
+    Registered Name: Kimera304000FlyLeaveAndApproach
+    No Interupt: True
+    No Update: True
+
+[201003] GOAL_IppanBOU201003_Battle
+    Registered Name: ippanBOU201003Battle
+    No Update: True
+
+[207010] GOAL_Ryosyu_COMMON_Wait
+    Registered Name: RYOSHUWait
+    No Interupt: True
+    No Update: True
+
+[211003] GOAL_urokoLS211003_Battle
+    Registered Name: uroko211003Battle
+    No Interupt: True
+    No Update: True
+
+[304002] GOAL_Kimera304000_Battle_FlyLeave
+    Registered Name: Kimera304000FlyLeave
+    No Interupt: True
+    No Update: True
+
+[200004] GOAL_DoreiTANKEN_B200004_Battle
+    Registered Name: doreiTANKEN_B200004Battle
+    No Update: True
+
+[103000] GOAL_Debu103000_Battle
+    Registered Name: debu103000Battle
+    No Update: True
+
+[10004] GOAL_Test10004_Battle
+    Registered Name: Test10004Battle
+    No Update: True
+
+[304003] GOAL_Kimera304000_Battle_FlyApproach
+    Registered Name: Kimera304000FlyApproach
+    No Interupt: True
+    No Update: True
+
+[200021] GOAL_Kisi200021_Battle
+    Registered Name: kisi200021Battle
+    No Update: True
+
+[710000] GOAL_kojiki710000_Battle
+    Registered Name: kojiki710000_Battle
+
+[211004] GOAL_uroko211004_Battle
+    Registered Name: uroko211004_Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: uroko211004_Logic
+    Logic Interupt Function Name: uroko211004_Interupt
+
+[311090] GOAL_tokage311010_Runaway
+    Registered Name: tokage311010Runaway
+    No Interupt: True
+
+[301001] GOAL_Gunyou301001_Battle
+    Registered Name: gunyou301001Battle
+    No Update: True
+
+[313008] GOAL_kuma_ApproachIniXZ
+    Registered Name: ApproachIniXZ
+    No Interupt: True
+
+[831000] GOAL_Mefist_831000_Battle
+    Registered Name: mefist_831000Battle
+    No Update: True
+
+[304005] GOAL_Kimera304000_Battle_Bite
+    Registered Name: Kimera304000Battle_Bite
+    No Interupt: True
+    No Update: True
+
+[207500] GOAL_Ryosyudama207500_Battle
+    Registered Name: Ryosyudama207500Battle
+    No Interupt: True
+    No Update: True
+
+[2014] GOAL_COMMON_Step
+    Registered Name: Step
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+
+[211005] GOAL_uroko211005_Battle
+    Registered Name: uroko211005_Battle
+
+[304006] GOAL_Kimera304000_Battle_BiteAction
+    Registered Name: Kimera304000Battle_BiteAct
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+
+[305090] GOAL_Gagoiru305000_LandBattle
+    Registered Name: Gagoiru305000LandBattle
+    No Update: True
+
+[2106] GOAL_COMMON_Attack2
+    Registered Name: Attack2
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        çUåÇëOê˘âÒéûä‘ÅyïbÅz
+        EzStateî‘çÜ
+
+
+
+
+
+GOAL_COMMON_NonBattleAct
+ìGÇ¢ÇΩÇÁèIóπÅH
+ëñÇÈÅH
+ê˘âÒÅyTYPEÅz
+ëÉÇÃìûíÖãóó£ÅymÅz
+ë“ã@éûÉSÅ[Éã
+
+GOAL_COMMON_Turn
+ê≥ñ îªíËäpìx
+
+GOAL_COMMON_TurnAround
+ëŒè€ÇÃï˚å¸ÅyTypeÅz
+äpìxÅyìxÅz
+ï‡Ç≠?
+éıñΩÇ≈ê¨å˜ÅH
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_NonspinningAttack
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+
+GOAL_COMMON_ContinueAttack
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyÇçÅz
+ñΩíÜÇµÇΩÇÁê¨å˜ÅH
+
+GOAL_COMMON_DashAttack
+çUåÇäJénãóó£ÅymÅz
+çUåÇEzStateî‘çÜ
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_DashAttack_Attack
+çUåÇEzStateî‘çÜ
+
+GOAL_COMMON_ApproachTarget
+ìûíBîªíËãóó£ÅymÅz
+ê˘âÒëŒè€ÅyTypeÅz
+ï‡Ç≠?
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_Fall
+óéâ∫äJénEzStateî‘çÜ
+óéâ∫í‚é~EzStateî‘çÜ
+óéâ∫í‚é~É}Å[ÉWÉì[m]
+
+GOAL_COMMON_Attack3
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+çUåÇëOê˘âÒéûä‘ÅyïbÅz
+ê≥ñ îªíËäpìxÅyìxÅz
+ïKÇ∏ê¨å˜Ç∑ÇÈÇ©ÅH
+
+GOAL_COMMON_Attack2
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+çUåÇëOê˘âÒéûä‘ÅyïbÅz
+
+[1] GOAL_RESULT_Success
+    Registered Name: Normal
+    No Update: True
+
+[2] GOAL_COMMON_Stay
+    Registered Name: Stay
+
+[3] SP_EFFECT_TYPE_LEECH
+    Registered Name: WalkAround
+
+[4] SP_EFFECT_TYPE_SPOIL
+    Registered Name: BackToHome
+
+[5] GOAL_COMMON_NonBattleAct
+    Registered Name: NonBattleAct
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    Parameter Names:
+        ìGÇ¢ÇΩÇÁèIóπÅH
+        ëñÇÈÅH
+        ê˘âÒÅyTYPEÅz
+        ëÉÇÃìûíÖãóó£ÅymÅz
+        ë“ã@éûÉSÅ[Éã
+        ìGÇ…îΩâûÇ∑ÇÈãóó£ÅymÅz
+
+[103001] GOAL_Debu103001_Battle
+    Registered Name: debu103001Battle
+    No Update: True
+
+[305091] GOAL_Gagoiru305000_AirBattle
+    Registered Name: Gagoiru305000AirBattle
+    No Interupt: True
+    No Update: True
+
+[310000] GOAL_mimizu310000_Battle
+    Registered Name: mimizu310000_Battle
+    No Interupt: True
+    No Update: True
+
+[305092] GOAL_Gagoiru305000_LandingAttack
+    Registered Name: Gagoiru305000Battle_LandingAttack
+    No Interupt: True
+    No Update: True
+
+[837000] GOAL_TroisM_A837000_Battle
+    Registered Name: TroisM_A837000Battle
+    No Update: True
+
+[503100] GOAL_koei_503100_Battle
+    Registered Name: koei_503100Battle
+    No Interupt: True
+    No Update: True
+
+[305093] GOAL_Gagoiru305000_BowgunAttack
+    Registered Name: Gagoiru305000Battle_BowgunAttack
+    No Interupt: True
+    No Update: True
+
+[200010] GOAL_IppanLONG200010_Battle
+    Registered Name: ippanLONG200010Battle
+    No Update: True
+
+[10000] LOGIC_ID_Hanyou10000
+    Logic Function Name: hanyou10000_Logic
+    Logic Interupt Function Name: hanyou10000_Interupt
+
+[305094] GOAL_Gagoiru305000_LiftOff
+    Registered Name: Gagoiru305000Battle_LiftOff
+    No Interupt: True
+
+[824000] GOAL_Sinto1_824000_Battle
+    Registered Name: sinto1_824000Battle
+    No Update: True
+
+[313000] GOAL_kuma313000_Battle
+    Registered Name: kuma313000_Battle
+
+[211008] GOAL_uroko211008_Battle
+    Registered Name: uroko211008Battle
+    No Update: True
+
+[501000] GOAL_Ounotate501000_Battle
+    Registered Name: ounotate501000Battle
+
+[313002] GOAL_kuma313002_Battle
+    Registered Name: kuma313002_Battle
+    No Update: True
+
+[200012] GOAL_IppanLONG_B200012_Battle
+    Registered Name: ippanLONG_B200012Battle
+    No Update: True
+
+[211009] LOGIC_ID_uroko211009
+    Logic Function Name: uroko211009_Logic
+    Logic Interupt Function Name: uroko211009_Interupt
+
+[311091] GOAL_tokage311010_Hide
+    Registered Name: tokage311010Hide
+    No Interupt: True
+    No Update: True
+
+[313004] GOAL_kuma313004_Battle
+    Registered Name: kuma313004Battle
+    No Update: True
+
+[2000] GOAL_COMMON_Wait
+    Registered Name: Wait
+
+[211010] GOAL_uroko_COMMON_Wait
+    Registered Name: UROKOWait
+    No Interupt: True
+    No Update: True
+
+[504000] GOAL_Sinpansya504000_Battle
+    Registered Name: Sinpansya504000Battle
+
+[2001] GOAL_COMMON_Turn
+    Registered Name: Turn
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+    Parameter Names:
+        ê≥ñ îªíËäpìx
+        ê˘âÒÉ^Å[ÉQÉbÉg
+
+[313006] LOGIC_ID_HaneKuma313006
+    Logic Function Name: SpHaneKuma313006_Logic
+    Logic Interupt Function Name: SpHaneKuma313006_Interupt
+
+[2002] GOAL_COMMON_TurnAround
+    Registered Name: TurnAround
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        ëŒè€ÇÃï˚å¸ÅyTypeÅz
+        äpìxÅyìxÅz
+        ï‡Ç≠?
+        éıñΩÇ≈ê¨å˜ÅH
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[313007] GOAL_kuma_ApproachXZAndFall
+    Registered Name: ApproachXZAndFall
+    No Interupt: True
+    No Update: True
+
+[0] TARGET_ENE_0
+    Registered Name: TopGoal
+    No Update: True
+    Logic Function Name: Default_Logic
+    Logic Interupt Function Name: Default_Interupt
+
+[402003] GOAL_honeTAIKEN402003_Battle
+    Registered Name: honeTAIKEN402003Battle
+    No Update: True
+
+[212000] GOAL_kagebito212000_Battle
+    Registered Name: kagebito212000_Battle
+
+[804000] GOAL_UruBlockNPC_804000_Battle
+    Registered Name: UruBlockNPC_804000Battle
+    No Update: True
+
+[303000] GOAL_Taka303000_Battle
+    Registered Name: taka303000Battle
+    No Interupt: True
+    No Update: True
+
+[823000] GOAL_Majutu_823000_Battle
+    Registered Name: majutu_823000Battle
+    No Update: True
+
+[402005] GOAL_honeNITOU402005_Battle
+    Registered Name: honeNITOU402005Battle
+    No Update: True
+
+[212001] GOAL_kagebito212001_Battle
+    Registered Name: kagebito212001_Battle
+
+[403090] GOAL_Tako403000_ThrowComboApproach
+    Registered Name: Tako403000TCA
+    No Interupt: True
+    No Update: True
+
+[403091] GOAL_Tako403000_Throw
+    Registered Name: Tako403000Throw
+    No Interupt: True
+    No Update: True
+
+[306000] GOAL_Nezumi306000_Battle
+    Registered Name: Nezumi306000Battle
+    No Update: True
+
+[829000] GOAL_Tomas_829000_Battle
+    Registered Name: tomas_829000Battle
+    No Update: True
+
+[2100] GOAL_COMMON_Attack
+    Registered Name: Attack
+
+[2101] GOAL_COMMON_Guard
+    Registered Name: Guard
+
+[2102] GOAL_COMMON_ComboAttack
+    Registered Name: ComboAttack
+
+[2103] GOAL_COMMON_GuardBreakAttack
+    Registered Name: GuardBreakAttack
+
+[2104] GOAL_COMMON_NonspinningAttack
+    Registered Name: NonspinningAttack
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        EzStateî‘çÜ
+
+[309000] GOAL_Ooka309000_Battle
+    Registered Name: Ooka309000Battle
+    No Update: True
+
+[2105] GOAL_COMMON_ContinueAttack
+    Registered Name: ContinueAttack
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyÇçÅz
+        ñΩíÜÇµÇΩÇÁê¨å˜ÅH
+        EzStateî‘çÜ
+
+[207000] GOAL_Ryosyu207000_Battle
+    Registered Name: Ryosyu207000Battle
+    No Update: True
+    Logic Function Name: Ryosyu207000_Logic
+    Logic Interupt Function Name: Ryosyu207000_Interupt
+
+[835000] GOAL_TutorialHG_835000_Battle
+    Registered Name: TutorialHG_835000Battle
+    No Update: True
+
+[2107] GOAL_COMMON_ApproachStep
+    Registered Name: ApproachStep
+
+[2108] GOAL_COMMON_UseItem
+    Registered Name: UseItem
+    No Interupt: True
+    No Update: True
+
+[200020] GOAL_Kisi200020_Battle
+    Registered Name: kisi200020Battle
+    No Update: True
+
+[2109] GOAL_COMMON_DashAttack
+    Registered Name: DashAttack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        çUåÇäJénãóó£ÅymÅz
+        çUåÇEzStateî‘çÜ
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[2110] GOAL_COMMON_DashAttack_Attack
+    Registered Name: DashAttack_Attack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        çUåÇEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[2015] GOAL_COMMON_ApproachTarget
+    Registered Name: ApproachTarget
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        ìûíBîªíËãóó£ÅymÅz
+        ê˘âÒëŒè€ÅyTypeÅz
+        ï‡Ç≠?
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[822000] GOAL_Doran_822000_Battle
+    Registered Name: doran_822000Battle
+    No Update: True
+
+[312000] GOAL_Yamori312000_Battle
+    Registered Name: Yamori312000Battle
+    No Update: True
+
+[2016] GOAL_COMMON_LeaveTarget
+    Registered Name: LeaveTarget
+
+[2113] GOAL_COMMON_Parry
+    Registered Name: Parry
+
+[213090] GOAL_kageonna213000_SneakAttack
+    Registered Name: kageonna213000_SneakAttack
+    No Update: True
+
+[207002] GOAL_Ryosyu207002_Battle
+    Registered Name: Ryosyu207002Battle
+    No Update: True
+
+[2017] GOAL_COMMON_SidewayMove
+    Registered Name: SidewayMove
+
+[2018] GOAL_COMMON_KeepDist
+    Registered Name: KeepDist
+
+[213091] GOAL_kageonna213000_SA_Attack
+    Registered Name: kageonna213000_SA_Attack
+    No Interupt: True
+    No Update: True
+
+[207003] GOAL_Ryosyu207003_Battle
+    Registered Name: Ryosyu207003Battle
+    No Update: True
+
+[2019] GOAL_COMMON_MoveToSomewhere
+    Registered Name: MoveToSomewhere
+
+[828000] GOAL_Monosiri_828000_Battle
+    Registered Name: monosiri_828000Battle
+    No Update: True
+
+[2020] GOAL_COMMON_SpinStep
+    Registered Name: SpinStep
+
+[210000] GOAL_Huhai210000_Battle
+    Registered Name: Huhai210000Battle
+    No Update: True
+    Logic Function Name: Huhai210000_Logic
+    Logic Interupt Function Name: Huhai210000_Interupt
+
+[401000] GOAL_sinigami401000_Battle
+    Registered Name: sinigami401000Battle
+    No Update: True
+
+[2021] GOAL_COMMON_Fall
+    Registered Name: Fall
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        óéâ∫äJénEzStateî‘çÜ
+        óéâ∫í‚é~EzStateî‘çÜ
+        óéâ∫í‚é~É}Å[ÉWÉì[m]
+        É^Å[ÉQÉbÉgÅyTypeÅz
+
+[202000] GOAL_Kisi202000_Battle
+    Registered Name: kisi202000Battle
+    No Update: True
+
+[713000] GOAL_kajiyaK_713000_Battle
+    Registered Name: kajiyaK_713000Battle
+    No Update: True
+
+[713001] GOAL_KajiSekichu_713001_Battle
+    Registered Name: kajiSekichu_713001Battle
+    No Update: True
+
+[207005] GOAL_Ryosyu207005_Battle
+    Registered Name: Ryosyu207005Battle
+    No Update: True
+    Logic Function Name: Ryosyu207005_Logic
+    Logic Interupt Function Name: Ryosyu207005_Interupt
+
+[834000] GOAL_KoudouBG_834000_Battle
+    Registered Name: KoudouBG_834000Battle
+    No Update: True
+
+[318000] GOAL_Chidani318000_Battle
+    Registered Name: Chidani318000Battle
+    No Interupt: True
+    No Update: True
+
+[202001] GOAL_Kisi202001_Battle
+    Registered Name: kisi202001Battle
+    No Update: True
+
+[210002] GOAL_Huhai210002_Battle
+    Registered Name: Huhai210002Battle
+    No Update: True
+
+[307100] GOAL_Namekuji307100_Battle
+    Registered Name: Namekuji307100Battle
+    No Update: True
+
+[207001] GOAL_RyosyuSINJA207001_Battle
+    Registered Name: ryosyuSINJA207001Battle
+    No Update: True
+
+[500100] GOAL_FaranHONTAI500100_Battle
+    Registered Name: FaranHONTAI500100Battle
+    No Update: True
+
+[836000] GOAL_RouBG_836000_Battle
+    Registered Name: RouBG_836000Battle
+    No Update: True
+
+[202002] GOAL_Kisi202002_Battle
+    Registered Name: kisi202002Battle
+    No Update: True
+
+[811000] GOAL_syujin811000_Battle
+    Registered Name: syujin811000Battle
+    No Update: True
+
+[506000] GOAL_Kamisama506000_Battle
+    Registered Name: kamisama506000Battle
+    No Update: True
+
+[210003] GOAL_Huhai210003_Battle
+    Registered Name: Huhai210003Battle
+    No Update: True
+
+[307000] GOAL_Namekuji307000_Battle
+    Registered Name: Namekuji307000Battle
+    No Update: True
+
+[830000] GOAL_satuki830000_Battle
+    Registered Name: satuki830000Battle
+    No Update: True
+
+[603100] GOAL_Okina603100_Battle
+    Registered Name: Okina603100Battle
+    No Update: True
+
+[825000] GOAL_Sinto2_825000_Battle
+    Registered Name: sinto2_825000Battle
+    No Update: True
+
+[821000] GOAL_Majo_821000_Battle
+    Registered Name: majo_821000Battle
+    No Update: True
+
+[213000] GOAL_kageonna213000_Battle
+    Registered Name: kageonna213000_Battle
+    No Update: True
+    Logic Function Name: KageOnna213000_Logic
+    Logic Interupt Function Name: KageOnna213000_Interupt
+
+[604000] GOAL_Libra604000_Battle
+    Registered Name: Libra604000Battle
+    No Update: True
+
+[305000] LOGIC_ID_Gagoiru305000
+    Registered Name: Gagoiru305000Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: Gagoiru305000_Logic
+    Logic Interupt Function Name: Gagoiru305000_Interupt
+
+[808001] LOGIC_ID_Biyo808001
+    Logic Function Name: Biyo808001_Logic
+    Logic Interupt Function Name: Biyo808001_Interupt
+
+[820000] GOAL_Selen_820000_Battle
+    Registered Name: Selen_820000Battle
+    No Update: True
+
+[210100] GOAL_Daihuhai210100_Battle
+    Registered Name: Daihuhai210100Battle
+    No Update: True
+
+[819000] GOAL_Vilidel_819000_Battle
+    Registered Name: Vilidel_819000Battle
+    No Update: True
+
+[818000] GOAL_Yuruto_818000_Battle
+    Registered Name: yuruto_818000Battle
+    No Update: True
+
+[817000] GOAL_Rogan_817000_Battle
+    Registered Name: rogan_817000Battle
+    No Update: True
+
+[816004] GOAL_GalV_816000_Battle
+    Registered Name: GalV_816000Battle
+    No Update: True
+
+[210005] LOGIC_ID_Huhai210005
+    Registered Name: Huhai210005Battle
+    No Update: True
+    Logic Function Name: Huhai210005_Logic
+    Logic Interupt Function Name: Huhai210005_Interupt
+
+[816003] GOAL_GalV_816000_Battle_Guard
+    Registered Name: GalV_816000Battle_Guard
+    No Update: True
+
+[816002] GOAL_GalV_816000_Battle_Retreat
+    Registered Name: GalV_816000Battle_Retreat
+    No Update: True
+
+[816001] GOAL_GalV_816000_Battle_Forward
+    Registered Name: GalV_816000Battle_Fwd
+    No Interupt: True
+    No Update: True
+
+[816005] GOAL_GalV_816000_NonBattle
+    Registered Name: GalV_816000NonBattle
+    No Interupt: True
+    No Update: True
+
+[816000] GOAL_GalV_816000_Battle_Main
+    Registered Name: GalV_816000Battle_Main
+    No Interupt: True
+    No Update: True
+    Logic Function Name: GalV816000_Logic
+    Logic Interupt Function Name: GalV816000_Interupt
+
+[814000] GOAL_Urubein_814000_Battle
+    Registered Name: urubein_814000Battle
+    No Update: True
+
+[308000] GOAL_Kurage308000_Battle
+    Registered Name: Kurage308000Battle
+    No Update: True
+
+[103091] GOAL_Debu103001_SafeApproach
+    Registered Name: debu103001SafeApproach
+    No Update: True
+
+[815000] GOAL_half815000_Battle
+    Registered Name: half815000Battle
+    No Update: True
+
+[211090] GOAL_uroko_ThrowRock
+    Registered Name: uroko_ThrowRock
+    No Interupt: True
+    No Update: True
+
+[833000] GOAL_OKINA_833000_Battle
+    Registered Name: OKINA_833000Battle
+    No Update: True
+
+[810000] GOAL_pachi810000_Battle
+    Registered Name: pachi810000Battle
+    No Update: True
+
+[809090] GOAL_pachi809000_MoveToTreasure
+    Registered Name: pachi809000MTT
+    No Interupt: True
+    No Update: True
+
+[809000] GOAL_pachi809000_Battle
+    Registered Name: pachi809000Battle
+    No Update: True
+    Logic Function Name: Patch809000_Logic
+    Logic Interupt Function Name: Patch809000_Interupt
+
+[808000] GOAL_Biyo_808000_Battle
+    Registered Name: biyo_808000Battle
+    No Update: True
+
+[801000] GOAL_NpcKISI_A801000_Battle
+    Registered Name: npcKISI_A801000Battle
+    No Update: True
+
+[213099] GOAL_kageonna213000_NonBattle
+    Registered Name: kageonna213000_NonBattle
+    No Update: True
+
+[708000] GOAL_Kaname_708000_Battle
+    Registered Name: kaname_708000Battle
+    No Update: True
+
+[807000] GOAL_Ouji_807000_Battle
+    Registered Name: ouji_807000Battle
+    No Update: True
+    Logic Function Name: ouji_807000_Logic
+    Logic Interupt Function Name: ouji_807000_Interupt
+
+[805000] GOAL_Kokoro_805000_Battle
+    Registered Name: kokoro_805000Battle
+    No Update: True
+
+[510091] GOAL_kumo510000_Blaze
+    Registered Name: kumo510000Blaze
+    No Interupt: True
+    No Update: True
+
+[311000] LOGIC_ID_tokage311000
+    Registered Name: tokage311000_Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: tokage311000_Logic
+    Logic Interupt Function Name: tokage311000_Interupt
+
+[803000] GOAL_NpcKISI_C803000_Battle
+    Registered Name: npcKISI_C803000Battle
+    No Update: True
+
+[802000] GOAL_NpcKISI_B802000_Battle
+    Registered Name: npcKISI_B802000Battle
+    No Update: True
+
+[208000] GOAL_Gokuri208000_Battle
+    Registered Name: gokuri208000Battle
+    No Update: True
+
+[839000] GOAL_Fujo2BG_839000_Battle
+    Registered Name: Fujo2BG_839000Battle
+    No Update: True
+
+[402100] GOAL_honeKEN402100_Battle
+    Registered Name: honeKEN402100Battle
+    No Update: True
+
+[723000] GOAL_King723000_Battle
+    Registered Name: king723000Battle
+    No Update: True
+
+[715000] GOAL_Heroine_715000_Battle
+    Registered Name: heroine_715000Battle
+    No Update: True
+    Logic Function Name: heroine_715000_Logic
+    Logic Interupt Function Name: heroine_715000_Interupt
+
+[200000] LOGIC_ID_Dorei200000
+    Registered Name: doreiTANKEN200000Battle
+    No Update: True
+    Logic Function Name: Dorei200000_Logic
+    Logic Interupt Function Name: Dorei200000_Interupt
+
+[402101] GOAL_honeBOU402101_Battle
+    Registered Name: honeBOU402101Battle
+    No Update: True
+
+[305095] GOAL_Gagoiru305000_LandingOnGround
+    Registered Name: Gagoiru305000LandingOnGround
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[807001] GOAL_Ouji_807001_Battle
+    Registered Name: ouji_807001Battle
+    No Update: True
+
+[605001] GOAL_DD605001_Battle
+    Registered Name: DD605001Battle
+
+[604100] GOAL_Fujou604100_Battle
+    Registered Name: Fujou604100Battle
+    No Update: True
+
+[826000] GOAL_Sinto3_826000_Battle
+    Registered Name: sinto3_826000Battle
+    No Update: True
+
+[500001] GOAL_FaranCIBI_B500001_Battle
+    Registered Name: FaranCIBI_B500001Battle
+    No Update: True
+
+[500000] GOAL_FaranCIBI500000_Battle
+    Registered Name: FaranCIBI500000Battle
+    No Interupt: True
+    No Update: True
+
+[511000] GOAL_seirei511000_Battle
+    Registered Name: seirei511000Battle
+    No Update: True
+
+[210010] GOAL_Huhai_COMMON_Wait
+    Registered Name: HUHAIWait
+    No Interupt: True
+    No Update: True
+
+[208002] GOAL_Gokuri208002_Battle
+    Registered Name: Gokuri208002Battle
+    No Update: True
+
+[400000] GOAL_Narisoko400000_Battle
+    Registered Name: narisoko400000Battle
+    No Update: True
+
+[510092] GOAL_kumo510000_FeelerAttack
+    Registered Name: kumo510000FeelerAttack
+    No Update: True
+
+[510000] LOGIC_ID_kumo510000
+    Registered Name: kumo510000Battle
+    No Update: True
+    Logic Function Name: kumo510000_Logic
+    Logic Interupt Function Name: kumo510000_Interupt
+
+[509000] GOAL_Hiru509000_Battle
+    Registered Name: Hiru509000Battle
+    No Update: True
+
+[508000] GOAL_Haetakari508000_Battle
+    Registered Name: Haetakari508000Battle
+    No Update: True
+
+[507100] GOAL_Mukade507100_Battle
+    Registered Name: Mukade507100Battle
+    No Update: True
+
+[507000] GOAL_Mukade507000_Battle
+    Registered Name: Mukade507000Battle
+    No Update: True
+
+[208003] GOAL_Gokuri208003_Battle
+    Registered Name: Gokuri208003Battle
+    No Update: True
+
+[506001] GOAL_Nisekamisama506001_Battle
+    Registered Name: nisekamisama506001Battle
+    No Update: True
+
+[832000] GOAL_Miralda_832000_Battle
+    Registered Name: Miralda_832000Battle
+    No Update: True
+
+[503101] GOAL_koei_503101_Battle
+    Registered Name: koei_503101Battle
+    No Update: True
+
+[503000] GOAL_akemono503000_Battle
+    Registered Name: akemono503000Battle
+
+[502000] GOAL_Ounoken502000_Battle
+    Registered Name: Ounoken502000Battle
+    No Update: True
+
+[211000] LOGIC_ID_urokoP211000
+    Registered Name: urokoP211000_Battle
+    No Update: True
+    Logic Function Name: urokoP211000_Logic
+    Logic Interupt Function Name: urokoP211000_Interupt
+
+[800000] GOAL_Wizard800000_Battle
+    Registered Name: Wizard800000Battle
+    No Update: True
+
+[301000] GOAL_Gunyou301000_Battle
+    Registered Name: gunyou301000Battle
+    No Update: True
+
+[405000] GOAL_Honokaijin405000_Battle
+    Registered Name: Honokaijin405000Battle
+    No Update: True
+
+[12010] GOAL_NpcPlayerTest_Battle
+    Registered Name: NpcPlayerTestBattle
+    No Update: True
+
+[203000] GOAL_Ansatu203000_Battle
+    Registered Name: ansatu203000Battle
+    No Update: True
+
+[305081] GOAL_Gagoiru305000_Battle_Landing
+    Registered Name: Gagoiru305000Battle_Landing
+    No Interupt: True
+    No Update: True
+
+[311010] GOAL_tokage311010_Battle
+    Registered Name: tokage311010Battle
+    No Update: True
+
+[211001] LOGIC_ID_urokoF211001
+    Registered Name: urokoF211001_Battle
+    No Update: True
+    Logic Function Name: urokoF211001_Logic
+    Logic Interupt Function Name: urokoF211001_Interupt
+
+[201000] GOAL_IppanLONG201000_Battle
+    Registered Name: ippanLONG201000Battle
+    No Update: True
+
+[305082] GOAL_Gagoiru305000_Battle_Landing_Move
+    Registered Name: Gagoiru305000Battle_Landing_Move
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[838000] GOAL_TroisM_B838000_Battle
+    Registered Name: TroisM_B838000Battle
+    No Update: True
+
+[2112] GOAL_COMMON_Attack3
+    Registered Name: Attack3
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        çUåÇëOê˘âÒéûä‘ÅyïbÅz
+        ê≥ñ îªíËäpìxÅyìxÅz
+        ïKÇ∏ê¨å˜Ç∑ÇÈÇ©ÅH
+        EzStateî‘çÜ
+
+[201001] GOAL_IppanLONG_B201001_Battle
+    Registered Name: ippanLONG_B201001Battle
+    No Update: True
+
+[305083] GOAL_Gagoiru305000_Battle_Landing_Landing
+    Registered Name: Gagoiru305000Battle_Landing_Landing
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[200005] GOAL_DoreiTANKEN_B200005_Battle
+    Registered Name: doreiTANKEN_B200005Battle
+    No Update: True
+
+[602000] GOAL_ArasiSensi602000_Battle
+    Registered Name: ArasiSensi602000Battle
+    No Update: True
+    Logic Function Name: ArasiSensi602000_Logic
+    Logic Interupt Function Name: ArasiSensi602000_Interupt
+
+[304000] GOAL_Kimera304000_Battle
+    Registered Name: Kimera304000Battle
+    No Update: True
+
+[602001] GOAL_ArasiSensi602000_NonBattle
+    Registered Name: ArasiSensi602000NonBattle
+    No Interupt: True
+    No Update: True
+
+[11000] GOAL_Nanimosinai11000_Battle
+    Registered Name: Nanimosinai11000Battle
+    No Update: True
+    Logic Function Name: Nanimosinai11000_Logic
+    Logic Interupt Function Name: Nanimosinai11000_Interupt
+
+[403000] GOAL_Tako403000_Battle
+    Registered Name: Tako403000Battle
+    No Update: True
+    Logic Function Name: Tako403000_Logic
+    Logic Interupt Function Name: Tako403000_Interupt
+
+[304001] GOAL_Kimera304000_Battle_FlyLeaveAndApproach
+    Registered Name: Kimera304000FlyLeaveAndApproach
+    No Interupt: True
+    No Update: True
+
+[201003] GOAL_IppanBOU201003_Battle
+    Registered Name: ippanBOU201003Battle
+    No Update: True
+
+[207010] GOAL_Ryosyu_COMMON_Wait
+    Registered Name: RYOSHUWait
+    No Interupt: True
+    No Update: True
+
+[211003] GOAL_urokoLS211003_Battle
+    Registered Name: uroko211003Battle
+    No Interupt: True
+    No Update: True
+
+[304002] GOAL_Kimera304000_Battle_FlyLeave
+    Registered Name: Kimera304000FlyLeave
+    No Interupt: True
+    No Update: True
+
+[200004] GOAL_DoreiTANKEN_B200004_Battle
+    Registered Name: doreiTANKEN_B200004Battle
+    No Update: True
+
+[103000] GOAL_Debu103000_Battle
+    Registered Name: debu103000Battle
+    No Update: True
+
+[10004] GOAL_Test10004_Battle
+    Registered Name: Test10004Battle
+    No Update: True
+
+[304003] GOAL_Kimera304000_Battle_FlyApproach
+    Registered Name: Kimera304000FlyApproach
+    No Interupt: True
+    No Update: True
+
+[200021] GOAL_Kisi200021_Battle
+    Registered Name: kisi200021Battle
+    No Update: True
+
+[710000] GOAL_kojiki710000_Battle
+    Registered Name: kojiki710000_Battle
+
+[211004] GOAL_uroko211004_Battle
+    Registered Name: uroko211004_Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: uroko211004_Logic
+    Logic Interupt Function Name: uroko211004_Interupt
+
+[311090] GOAL_tokage311010_Runaway
+    Registered Name: tokage311010Runaway
+    No Interupt: True
+
+[301001] GOAL_Gunyou301001_Battle
+    Registered Name: gunyou301001Battle
+    No Update: True
+
+[313008] GOAL_kuma_ApproachIniXZ
+    Registered Name: ApproachIniXZ
+    No Interupt: True
+
+[831000] GOAL_Mefist_831000_Battle
+    Registered Name: mefist_831000Battle
+    No Update: True
+
+[304005] GOAL_Kimera304000_Battle_Bite
+    Registered Name: Kimera304000Battle_Bite
+    No Interupt: True
+    No Update: True
+
+[207500] GOAL_Ryosyudama207500_Battle
+    Registered Name: Ryosyudama207500Battle
+    No Interupt: True
+    No Update: True
+
+[2014] GOAL_COMMON_Step
+    Registered Name: Step
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+
+[211005] GOAL_uroko211005_Battle
+    Registered Name: uroko211005_Battle
+
+[304006] GOAL_Kimera304000_Battle_BiteAction
+    Registered Name: Kimera304000Battle_BiteAct
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+
+[305090] GOAL_Gagoiru305000_LandBattle
+    Registered Name: Gagoiru305000LandBattle
+    No Update: True
+
+[2106] GOAL_COMMON_Attack2
+    Registered Name: Attack2
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        çUåÇëOê˘âÒéûä‘ÅyïbÅz
+        EzStateî‘çÜ
+
+
+
+
+
+GOAL_COMMON_NonBattleAct
+ìGÇ¢ÇΩÇÁèIóπÅH
+ëñÇÈÅH
+ê˘âÒÅyTYPEÅz
+ëÉÇÃìûíÖãóó£ÅymÅz
+ë“ã@éûÉSÅ[Éã
+
+GOAL_COMMON_Turn
+ê≥ñ îªíËäpìx
+
+GOAL_COMMON_TurnAround
+ëŒè€ÇÃï˚å¸ÅyTypeÅz
+äpìxÅyìxÅz
+ï‡Ç≠?
+éıñΩÇ≈ê¨å˜ÅH
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_NonspinningAttack
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+
+GOAL_COMMON_ContinueAttack
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyÇçÅz
+ñΩíÜÇµÇΩÇÁê¨å˜ÅH
+
+GOAL_COMMON_DashAttack
+çUåÇäJénãóó£ÅymÅz
+çUåÇEzStateî‘çÜ
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_DashAttack_Attack
+çUåÇEzStateî‘çÜ
+
+GOAL_COMMON_ApproachTarget
+ìûíBîªíËãóó£ÅymÅz
+ê˘âÒëŒè€ÅyTypeÅz
+ï‡Ç≠?
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_Fall
+óéâ∫äJénEzStateî‘çÜ
+óéâ∫í‚é~EzStateî‘çÜ
+óéâ∫í‚é~É}Å[ÉWÉì[m]
+
+GOAL_COMMON_Attack3
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+çUåÇëOê˘âÒéûä‘ÅyïbÅz
+ê≥ñ îªíËäpìxÅyìxÅz
+ïKÇ∏ê¨å˜Ç∑ÇÈÇ©ÅH
+
+GOAL_COMMON_Attack2
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+çUåÇëOê˘âÒéûä‘ÅyïbÅz
+
+[1] GOAL_RESULT_Success
+    Registered Name: Normal
+    No Update: True
+
+[2] GOAL_COMMON_Stay
+    Registered Name: Stay
+
+[3] SP_EFFECT_TYPE_LEECH
+    Registered Name: WalkAround
+
+[4] SP_EFFECT_TYPE_SPOIL
+    Registered Name: BackToHome
+
+[5] GOAL_COMMON_NonBattleAct
+    Registered Name: NonBattleAct
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    Parameter Names:
+        ìGÇ¢ÇΩÇÁèIóπÅH
+        ëñÇÈÅH
+        ê˘âÒÅyTYPEÅz
+        ëÉÇÃìûíÖãóó£ÅymÅz
+        ë“ã@éûÉSÅ[Éã
+        ìGÇ…îΩâûÇ∑ÇÈãóó£ÅymÅz
+
+[103001] GOAL_Debu103001_Battle
+    Registered Name: debu103001Battle
+    No Update: True
+
+[305091] GOAL_Gagoiru305000_AirBattle
+    Registered Name: Gagoiru305000AirBattle
+    No Interupt: True
+    No Update: True
+
+[310000] GOAL_mimizu310000_Battle
+    Registered Name: mimizu310000_Battle
+    No Interupt: True
+    No Update: True
+
+[305092] GOAL_Gagoiru305000_LandingAttack
+    Registered Name: Gagoiru305000Battle_LandingAttack
+    No Interupt: True
+    No Update: True
+
+[837000] GOAL_TroisM_A837000_Battle
+    Registered Name: TroisM_A837000Battle
+    No Update: True
+
+[503100] GOAL_koei_503100_Battle
+    Registered Name: koei_503100Battle
+    No Interupt: True
+    No Update: True
+
+[305093] GOAL_Gagoiru305000_BowgunAttack
+    Registered Name: Gagoiru305000Battle_BowgunAttack
+    No Interupt: True
+    No Update: True
+
+[200010] GOAL_IppanLONG200010_Battle
+    Registered Name: ippanLONG200010Battle
+    No Update: True
+
+[10000] LOGIC_ID_Hanyou10000
+    Logic Function Name: hanyou10000_Logic
+    Logic Interupt Function Name: hanyou10000_Interupt
+
+[305094] GOAL_Gagoiru305000_LiftOff
+    Registered Name: Gagoiru305000Battle_LiftOff
+    No Interupt: True
+
+[824000] GOAL_Sinto1_824000_Battle
+    Registered Name: sinto1_824000Battle
+    No Update: True
+
+[313000] GOAL_kuma313000_Battle
+    Registered Name: kuma313000_Battle
+
+[211008] GOAL_uroko211008_Battle
+    Registered Name: uroko211008Battle
+    No Update: True
+
+[501000] GOAL_Ounotate501000_Battle
+    Registered Name: ounotate501000Battle
+
+[313002] GOAL_kuma313002_Battle
+    Registered Name: kuma313002_Battle
+    No Update: True
+
+[200012] GOAL_IppanLONG_B200012_Battle
+    Registered Name: ippanLONG_B200012Battle
+    No Update: True
+
+[211009] LOGIC_ID_uroko211009
+    Logic Function Name: uroko211009_Logic
+    Logic Interupt Function Name: uroko211009_Interupt
+
+[311091] GOAL_tokage311010_Hide
+    Registered Name: tokage311010Hide
+    No Interupt: True
+    No Update: True
+
+[313004] GOAL_kuma313004_Battle
+    Registered Name: kuma313004Battle
+    No Update: True
+
+[2000] GOAL_COMMON_Wait
+    Registered Name: Wait
+
+[211010] GOAL_uroko_COMMON_Wait
+    Registered Name: UROKOWait
+    No Interupt: True
+    No Update: True
+
+[504000] GOAL_Sinpansya504000_Battle
+    Registered Name: Sinpansya504000Battle
+
+[2001] GOAL_COMMON_Turn
+    Registered Name: Turn
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+    Parameter Names:
+        ê≥ñ îªíËäpìx
+        ê˘âÒÉ^Å[ÉQÉbÉg
+
+[313006] LOGIC_ID_HaneKuma313006
+    Logic Function Name: SpHaneKuma313006_Logic
+    Logic Interupt Function Name: SpHaneKuma313006_Interupt
+
+[2002] GOAL_COMMON_TurnAround
+    Registered Name: TurnAround
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        ëŒè€ÇÃï˚å¸ÅyTypeÅz
+        äpìxÅyìxÅz
+        ï‡Ç≠?
+        éıñΩÇ≈ê¨å˜ÅH
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[313007] GOAL_kuma_ApproachXZAndFall
+    Registered Name: ApproachXZAndFall
+    No Interupt: True
+    No Update: True
+
+[0] TARGET_ENE_0
+    Registered Name: TopGoal
+    No Update: True
+    Logic Function Name: Default_Logic
+    Logic Interupt Function Name: Default_Interupt
+
+[402003] GOAL_honeTAIKEN402003_Battle
+    Registered Name: honeTAIKEN402003Battle
+    No Update: True
+
+[212000] GOAL_kagebito212000_Battle
+    Registered Name: kagebito212000_Battle
+
+[804000] GOAL_UruBlockNPC_804000_Battle
+    Registered Name: UruBlockNPC_804000Battle
+    No Update: True
+
+[303000] GOAL_Taka303000_Battle
+    Registered Name: taka303000Battle
+    No Interupt: True
+    No Update: True
+
+[823000] GOAL_Majutu_823000_Battle
+    Registered Name: majutu_823000Battle
+    No Update: True
+
+[402005] GOAL_honeNITOU402005_Battle
+    Registered Name: honeNITOU402005Battle
+    No Update: True
+
+[212001] GOAL_kagebito212001_Battle
+    Registered Name: kagebito212001_Battle
+
+[403090] GOAL_Tako403000_ThrowComboApproach
+    Registered Name: Tako403000TCA
+    No Interupt: True
+    No Update: True
+
+[403091] GOAL_Tako403000_Throw
+    Registered Name: Tako403000Throw
+    No Interupt: True
+    No Update: True
+
+[306000] GOAL_Nezumi306000_Battle
+    Registered Name: Nezumi306000Battle
+    No Update: True
+
+[829000] GOAL_Tomas_829000_Battle
+    Registered Name: tomas_829000Battle
+    No Update: True
+
+[2100] GOAL_COMMON_Attack
+    Registered Name: Attack
+
+[2101] GOAL_COMMON_Guard
+    Registered Name: Guard
+
+[2102] GOAL_COMMON_ComboAttack
+    Registered Name: ComboAttack
+
+[2103] GOAL_COMMON_GuardBreakAttack
+    Registered Name: GuardBreakAttack
+
+[2104] GOAL_COMMON_NonspinningAttack
+    Registered Name: NonspinningAttack
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        EzStateî‘çÜ
+
+[309000] GOAL_Ooka309000_Battle
+    Registered Name: Ooka309000Battle
+    No Update: True
+
+[2105] GOAL_COMMON_ContinueAttack
+    Registered Name: ContinueAttack
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyÇçÅz
+        ñΩíÜÇµÇΩÇÁê¨å˜ÅH
+        EzStateî‘çÜ
+
+[207000] GOAL_Ryosyu207000_Battle
+    Registered Name: Ryosyu207000Battle
+    No Update: True
+    Logic Function Name: Ryosyu207000_Logic
+    Logic Interupt Function Name: Ryosyu207000_Interupt
+
+[835000] GOAL_TutorialHG_835000_Battle
+    Registered Name: TutorialHG_835000Battle
+    No Update: True
+
+[2107] GOAL_COMMON_ApproachStep
+    Registered Name: ApproachStep
+
+[2108] GOAL_COMMON_UseItem
+    Registered Name: UseItem
+    No Interupt: True
+    No Update: True
+
+[200020] GOAL_Kisi200020_Battle
+    Registered Name: kisi200020Battle
+    No Update: True
+
+[2109] GOAL_COMMON_DashAttack
+    Registered Name: DashAttack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        çUåÇäJénãóó£ÅymÅz
+        çUåÇEzStateî‘çÜ
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[2110] GOAL_COMMON_DashAttack_Attack
+    Registered Name: DashAttack_Attack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        çUåÇEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[2015] GOAL_COMMON_ApproachTarget
+    Registered Name: ApproachTarget
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        ìûíBîªíËãóó£ÅymÅz
+        ê˘âÒëŒè€ÅyTypeÅz
+        ï‡Ç≠?
+        ÉKÅ[ÉhEzStateî‘çÜ
+        à⁄ìÆëŒè€ÅyTypeÅz
+
+[822000] GOAL_Doran_822000_Battle
+    Registered Name: doran_822000Battle
+    No Update: True
+
+[312000] GOAL_Yamori312000_Battle
+    Registered Name: Yamori312000Battle
+    No Update: True
+
+[2016] GOAL_COMMON_LeaveTarget
+    Registered Name: LeaveTarget
+
+[2113] GOAL_COMMON_Parry
+    Registered Name: Parry
+
+[213090] GOAL_kageonna213000_SneakAttack
+    Registered Name: kageonna213000_SneakAttack
+    No Update: True
+
+[207002] GOAL_Ryosyu207002_Battle
+    Registered Name: Ryosyu207002Battle
+    No Update: True
+
+[2017] GOAL_COMMON_SidewayMove
+    Registered Name: SidewayMove
+
+[2018] GOAL_COMMON_KeepDist
+    Registered Name: KeepDist
+
+[213091] GOAL_kageonna213000_SA_Attack
+    Registered Name: kageonna213000_SA_Attack
+    No Interupt: True
+    No Update: True
+
+[207003] GOAL_Ryosyu207003_Battle
+    Registered Name: Ryosyu207003Battle
+    No Update: True
+
+[2019] GOAL_COMMON_MoveToSomewhere
+    Registered Name: MoveToSomewhere
+
+[828000] GOAL_Monosiri_828000_Battle
+    Registered Name: monosiri_828000Battle
+    No Update: True
+
+[2020] GOAL_COMMON_SpinStep
+    Registered Name: SpinStep
+
+[210000] GOAL_Huhai210000_Battle
+    Registered Name: Huhai210000Battle
+    No Update: True
+    Logic Function Name: Huhai210000_Logic
+    Logic Interupt Function Name: Huhai210000_Interupt
+
+[401000] GOAL_sinigami401000_Battle
+    Registered Name: sinigami401000Battle
+    No Update: True
+
+[2021] GOAL_COMMON_Fall
+    Registered Name: Fall
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        óéâ∫äJénEzStateî‘çÜ
+        óéâ∫í‚é~EzStateî‘çÜ
+        óéâ∫í‚é~É}Å[ÉWÉì[m]
+        É^Å[ÉQÉbÉgÅyTypeÅz
+
+[202000] GOAL_Kisi202000_Battle
+    Registered Name: kisi202000Battle
+    No Update: True
+
+[713000] GOAL_kajiyaK_713000_Battle
+    Registered Name: kajiyaK_713000Battle
+    No Update: True
+
+[713001] GOAL_KajiSekichu_713001_Battle
+    Registered Name: kajiSekichu_713001Battle
+    No Update: True
+
+[207005] GOAL_Ryosyu207005_Battle
+    Registered Name: Ryosyu207005Battle
+    No Update: True
+    Logic Function Name: Ryosyu207005_Logic
+    Logic Interupt Function Name: Ryosyu207005_Interupt
+
+[834000] GOAL_KoudouBG_834000_Battle
+    Registered Name: KoudouBG_834000Battle
+    No Update: True
+
+[318000] GOAL_Chidani318000_Battle
+    Registered Name: Chidani318000Battle
+    No Interupt: True
+    No Update: True
+
+[202001] GOAL_Kisi202001_Battle
+    Registered Name: kisi202001Battle
+    No Update: True
+
+[210002] GOAL_Huhai210002_Battle
+    Registered Name: Huhai210002Battle
+    No Update: True
+
+[307100] GOAL_Namekuji307100_Battle
+    Registered Name: Namekuji307100Battle
+    No Update: True
+
+[207001] GOAL_RyosyuSINJA207001_Battle
+    Registered Name: ryosyuSINJA207001Battle
+    No Update: True
+
+[500100] GOAL_FaranHONTAI500100_Battle
+    Registered Name: FaranHONTAI500100Battle
+    No Update: True
+
+[836000] GOAL_RouBG_836000_Battle
+    Registered Name: RouBG_836000Battle
+    No Update: True
+
+[202002] GOAL_Kisi202002_Battle
+    Registered Name: kisi202002Battle
+    No Update: True
+
+[811000] GOAL_syujin811000_Battle
+    Registered Name: syujin811000Battle
+    No Update: True
+
+[506000] GOAL_Kamisama506000_Battle
+    Registered Name: kamisama506000Battle
+    No Update: True
+
+[210003] GOAL_Huhai210003_Battle
+    Registered Name: Huhai210003Battle
+    No Update: True
+
+[307000] GOAL_Namekuji307000_Battle
+    Registered Name: Namekuji307000Battle
+    No Update: True
+
+[830000] GOAL_satuki830000_Battle
+    Registered Name: satuki830000Battle
+    No Update: True
+
+[603100] GOAL_Okina603100_Battle
+    Registered Name: Okina603100Battle
+    No Update: True
+
+[825000] GOAL_Sinto2_825000_Battle
+    Registered Name: sinto2_825000Battle
+    No Update: True
+
+[821000] GOAL_Majo_821000_Battle
+    Registered Name: majo_821000Battle
+    No Update: True
+
+[213000] GOAL_kageonna213000_Battle
+    Registered Name: kageonna213000_Battle
+    No Update: True
+    Logic Function Name: KageOnna213000_Logic
+    Logic Interupt Function Name: KageOnna213000_Interupt
+
+[604000] GOAL_Libra604000_Battle
+    Registered Name: Libra604000Battle
+    No Update: True
+
+[305000] LOGIC_ID_Gagoiru305000
+    Registered Name: Gagoiru305000Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: Gagoiru305000_Logic
+    Logic Interupt Function Name: Gagoiru305000_Interupt
+
+[808001] LOGIC_ID_Biyo808001
+    Logic Function Name: Biyo808001_Logic
+    Logic Interupt Function Name: Biyo808001_Interupt
+
+[820000] GOAL_Selen_820000_Battle
+    Registered Name: Selen_820000Battle
+    No Update: True
+
+[210100] GOAL_Daihuhai210100_Battle
+    Registered Name: Daihuhai210100Battle
+    No Update: True
+
+[819000] GOAL_Vilidel_819000_Battle
+    Registered Name: Vilidel_819000Battle
+    No Update: True
+
+[818000] GOAL_Yuruto_818000_Battle
+    Registered Name: yuruto_818000Battle
+    No Update: True
+
+[817000] GOAL_Rogan_817000_Battle
+    Registered Name: rogan_817000Battle
+    No Update: True
+
+[816004] GOAL_GalV_816000_Battle
+    Registered Name: GalV_816000Battle
+    No Update: True
+
+[210005] LOGIC_ID_Huhai210005
+    Registered Name: Huhai210005Battle
+    No Update: True
+    Logic Function Name: Huhai210005_Logic
+    Logic Interupt Function Name: Huhai210005_Interupt
+
+[816003] GOAL_GalV_816000_Battle_Guard
+    Registered Name: GalV_816000Battle_Guard
+    No Update: True
+
+[816002] GOAL_GalV_816000_Battle_Retreat
+    Registered Name: GalV_816000Battle_Retreat
+    No Update: True
+
+[816001] GOAL_GalV_816000_Battle_Forward
+    Registered Name: GalV_816000Battle_Fwd
+    No Interupt: True
+    No Update: True
+
+[816005] GOAL_GalV_816000_NonBattle
+    Registered Name: GalV_816000NonBattle
+    No Interupt: True
+    No Update: True
+
+[816000] GOAL_GalV_816000_Battle_Main
+    Registered Name: GalV_816000Battle_Main
+    No Interupt: True
+    No Update: True
+    Logic Function Name: GalV816000_Logic
+    Logic Interupt Function Name: GalV816000_Interupt
+
+[814000] GOAL_Urubein_814000_Battle
+    Registered Name: urubein_814000Battle
+    No Update: True
+
+[308000] GOAL_Kurage308000_Battle
+    Registered Name: Kurage308000Battle
+    No Update: True
+
+[103091] GOAL_Debu103001_SafeApproach
+    Registered Name: debu103001SafeApproach
+    No Update: True
+
+[815000] GOAL_half815000_Battle
+    Registered Name: half815000Battle
+    No Update: True
+
+[211090] GOAL_uroko_ThrowRock
+    Registered Name: uroko_ThrowRock
+    No Interupt: True
+    No Update: True
+
+[833000] GOAL_OKINA_833000_Battle
+    Registered Name: OKINA_833000Battle
+    No Update: True
+
+[810000] GOAL_pachi810000_Battle
+    Registered Name: pachi810000Battle
+    No Update: True
+
+[809090] GOAL_pachi809000_MoveToTreasure
+    Registered Name: pachi809000MTT
+    No Interupt: True
+    No Update: True
+
+[809000] GOAL_pachi809000_Battle
+    Registered Name: pachi809000Battle
+    No Update: True
+    Logic Function Name: Patch809000_Logic
+    Logic Interupt Function Name: Patch809000_Interupt
+
+[808000] GOAL_Biyo_808000_Battle
+    Registered Name: biyo_808000Battle
+    No Update: True
+
+[801000] GOAL_NpcKISI_A801000_Battle
+    Registered Name: npcKISI_A801000Battle
+    No Update: True
+
+[213099] GOAL_kageonna213000_NonBattle
+    Registered Name: kageonna213000_NonBattle
+    No Update: True
+
+[708000] GOAL_Kaname_708000_Battle
+    Registered Name: kaname_708000Battle
+    No Update: True
+
+[807000] GOAL_Ouji_807000_Battle
+    Registered Name: ouji_807000Battle
+    No Update: True
+    Logic Function Name: ouji_807000_Logic
+    Logic Interupt Function Name: ouji_807000_Interupt
+
+[805000] GOAL_Kokoro_805000_Battle
+    Registered Name: kokoro_805000Battle
+    No Update: True
+
+[510091] GOAL_kumo510000_Blaze
+    Registered Name: kumo510000Blaze
+    No Interupt: True
+    No Update: True
+
+[311000] LOGIC_ID_tokage311000
+    Registered Name: tokage311000_Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: tokage311000_Logic
+    Logic Interupt Function Name: tokage311000_Interupt
+
+[803000] GOAL_NpcKISI_C803000_Battle
+    Registered Name: npcKISI_C803000Battle
+    No Update: True
+
+[802000] GOAL_NpcKISI_B802000_Battle
+    Registered Name: npcKISI_B802000Battle
+    No Update: True
+
+[208000] GOAL_Gokuri208000_Battle
+    Registered Name: gokuri208000Battle
+    No Update: True
+
+[839000] GOAL_Fujo2BG_839000_Battle
+    Registered Name: Fujo2BG_839000Battle
+    No Update: True
+
+[402100] GOAL_honeKEN402100_Battle
+    Registered Name: honeKEN402100Battle
+    No Update: True
+
+[723000] GOAL_King723000_Battle
+    Registered Name: king723000Battle
+    No Update: True
+
+[715000] GOAL_Heroine_715000_Battle
+    Registered Name: heroine_715000Battle
+    No Update: True
+    Logic Function Name: heroine_715000_Logic
+    Logic Interupt Function Name: heroine_715000_Interupt
+
+[200000] LOGIC_ID_Dorei200000
+    Registered Name: doreiTANKEN200000Battle
+    No Update: True
+    Logic Function Name: Dorei200000_Logic
+    Logic Interupt Function Name: Dorei200000_Interupt
+
+[402101] GOAL_honeBOU402101_Battle
+    Registered Name: honeBOU402101Battle
+    No Update: True
+
+[305095] GOAL_Gagoiru305000_LandingOnGround
+    Registered Name: Gagoiru305000LandingOnGround
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[807001] GOAL_Ouji_807001_Battle
+    Registered Name: ouji_807001Battle
+    No Update: True
+
+[605001] GOAL_DD605001_Battle
+    Registered Name: DD605001Battle
+
+[604100] GOAL_Fujou604100_Battle
+    Registered Name: Fujou604100Battle
+    No Update: True
+
+[826000] GOAL_Sinto3_826000_Battle
+    Registered Name: sinto3_826000Battle
+    No Update: True
+
+[500001] GOAL_FaranCIBI_B500001_Battle
+    Registered Name: FaranCIBI_B500001Battle
+    No Update: True
+
+[500000] GOAL_FaranCIBI500000_Battle
+    Registered Name: FaranCIBI500000Battle
+    No Interupt: True
+    No Update: True
+
+[511000] GOAL_seirei511000_Battle
+    Registered Name: seirei511000Battle
+    No Update: True
+
+[210010] GOAL_Huhai_COMMON_Wait
+    Registered Name: HUHAIWait
+    No Interupt: True
+    No Update: True
+
+[208002] GOAL_Gokuri208002_Battle
+    Registered Name: Gokuri208002Battle
+    No Update: True
+
+[400000] GOAL_Narisoko400000_Battle
+    Registered Name: narisoko400000Battle
+    No Update: True
+
+[510092] GOAL_kumo510000_FeelerAttack
+    Registered Name: kumo510000FeelerAttack
+    No Update: True
+
+[510000] LOGIC_ID_kumo510000
+    Registered Name: kumo510000Battle
+    No Update: True
+    Logic Function Name: kumo510000_Logic
+    Logic Interupt Function Name: kumo510000_Interupt
+
+[509000] GOAL_Hiru509000_Battle
+    Registered Name: Hiru509000Battle
+    No Update: True
+
+[508000] GOAL_Haetakari508000_Battle
+    Registered Name: Haetakari508000Battle
+    No Update: True
+
+[507100] GOAL_Mukade507100_Battle
+    Registered Name: Mukade507100Battle
+    No Update: True
+
+[507000] GOAL_Mukade507000_Battle
+    Registered Name: Mukade507000Battle
+    No Update: True
+
+[208003] GOAL_Gokuri208003_Battle
+    Registered Name: Gokuri208003Battle
+    No Update: True
+
+[506001] GOAL_Nisekamisama506001_Battle
+    Registered Name: nisekamisama506001Battle
+    No Update: True
+
+[832000] GOAL_Miralda_832000_Battle
+    Registered Name: Miralda_832000Battle
+    No Update: True
+
+[503101] GOAL_koei_503101_Battle
+    Registered Name: koei_503101Battle
+    No Update: True
+
+[503000] GOAL_akemono503000_Battle
+    Registered Name: akemono503000Battle
+
+[502000] GOAL_Ounoken502000_Battle
+    Registered Name: Ounoken502000Battle
+    No Update: True
+
+[211000] LOGIC_ID_urokoP211000
+    Registered Name: urokoP211000_Battle
+    No Update: True
+    Logic Function Name: urokoP211000_Logic
+    Logic Interupt Function Name: urokoP211000_Interupt
+
+[800000] GOAL_Wizard800000_Battle
+    Registered Name: Wizard800000Battle
+    No Update: True
+
+[301000] GOAL_Gunyou301000_Battle
+    Registered Name: gunyou301000Battle
+    No Update: True
+
+[405000] GOAL_Honokaijin405000_Battle
+    Registered Name: Honokaijin405000Battle
+    No Update: True
+
+[12010] GOAL_NpcPlayerTest_Battle
+    Registered Name: NpcPlayerTestBattle
+    No Update: True
+
+[203000] GOAL_Ansatu203000_Battle
+    Registered Name: ansatu203000Battle
+    No Update: True
+
+[305081] GOAL_Gagoiru305000_Battle_Landing
+    Registered Name: Gagoiru305000Battle_Landing
+    No Interupt: True
+    No Update: True
+
+[311010] GOAL_tokage311010_Battle
+    Registered Name: tokage311010Battle
+    No Update: True
+
+[211001] LOGIC_ID_urokoF211001
+    Registered Name: urokoF211001_Battle
+    No Update: True
+    Logic Function Name: urokoF211001_Logic
+    Logic Interupt Function Name: urokoF211001_Interupt
+
+[201000] GOAL_IppanLONG201000_Battle
+    Registered Name: ippanLONG201000Battle
+    No Update: True
+
+[305082] GOAL_Gagoiru305000_Battle_Landing_Move
+    Registered Name: Gagoiru305000Battle_Landing_Move
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[838000] GOAL_TroisM_B838000_Battle
+    Registered Name: TroisM_B838000Battle
+    No Update: True
+
+[2112] GOAL_COMMON_Attack3
+    Registered Name: Attack3
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        çUåÇëOê˘âÒéûä‘ÅyïbÅz
+        ê≥ñ îªíËäpìxÅyìxÅz
+        ïKÇ∏ê¨å˜Ç∑ÇÈÇ©ÅH
+        EzStateî‘çÜ
+
+[201001] GOAL_IppanLONG_B201001_Battle
+    Registered Name: ippanLONG_B201001Battle
+    No Update: True
+
+[305083] GOAL_Gagoiru305000_Battle_Landing_Landing
+    Registered Name: Gagoiru305000Battle_Landing_Landing
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[200005] GOAL_DoreiTANKEN_B200005_Battle
+    Registered Name: doreiTANKEN_B200005Battle
+    No Update: True
+
+[602000] GOAL_ArasiSensi602000_Battle
+    Registered Name: ArasiSensi602000Battle
+    No Update: True
+    Logic Function Name: ArasiSensi602000_Logic
+    Logic Interupt Function Name: ArasiSensi602000_Interupt
+
+[304000] GOAL_Kimera304000_Battle
+    Registered Name: Kimera304000Battle
+    No Update: True
+
+[602001] GOAL_ArasiSensi602000_NonBattle
+    Registered Name: ArasiSensi602000NonBattle
+    No Interupt: True
+    No Update: True
+
+[11000] GOAL_Nanimosinai11000_Battle
+    Registered Name: Nanimosinai11000Battle
+    No Update: True
+    Logic Function Name: Nanimosinai11000_Logic
+    Logic Interupt Function Name: Nanimosinai11000_Interupt
+
+[403000] GOAL_Tako403000_Battle
+    Registered Name: Tako403000Battle
+    No Update: True
+    Logic Function Name: Tako403000_Logic
+    Logic Interupt Function Name: Tako403000_Interupt
+
+[304001] GOAL_Kimera304000_Battle_FlyLeaveAndApproach
+    Registered Name: Kimera304000FlyLeaveAndApproach
+    No Interupt: True
+    No Update: True
+
+[201003] GOAL_IppanBOU201003_Battle
+    Registered Name: ippanBOU201003Battle
+    No Update: True
+
+[207010] GOAL_Ryosyu_COMMON_Wait
+    Registered Name: RYOSHUWait
+    No Interupt: True
+    No Update: True
+
+[211003] GOAL_urokoLS211003_Battle
+    Registered Name: uroko211003Battle
+    No Interupt: True
+    No Update: True
+
+[304002] GOAL_Kimera304000_Battle_FlyLeave
+    Registered Name: Kimera304000FlyLeave
+    No Interupt: True
+    No Update: True
+
+[200004] GOAL_DoreiTANKEN_B200004_Battle
+    Registered Name: doreiTANKEN_B200004Battle
+    No Update: True
+
+[103000] GOAL_Debu103000_Battle
+    Registered Name: debu103000Battle
+    No Update: True
+
+[10004] GOAL_Test10004_Battle
+    Registered Name: Test10004Battle
+    No Update: True
+
+[304003] GOAL_Kimera304000_Battle_FlyApproach
+    Registered Name: Kimera304000FlyApproach
+    No Interupt: True
+    No Update: True
+
+[200021] GOAL_Kisi200021_Battle
+    Registered Name: kisi200021Battle
+    No Update: True
+
+[710000] GOAL_kojiki710000_Battle
+    Registered Name: kojiki710000_Battle
+
+[211004] GOAL_uroko211004_Battle
+    Registered Name: uroko211004_Battle
+    No Interupt: True
+    No Update: True
+    Logic Function Name: uroko211004_Logic
+    Logic Interupt Function Name: uroko211004_Interupt
+
+[311090] GOAL_tokage311010_Runaway
+    Registered Name: tokage311010Runaway
+    No Interupt: True
+
+[301001] GOAL_Gunyou301001_Battle
+    Registered Name: gunyou301001Battle
+    No Update: True
+
+[313008] GOAL_kuma_ApproachIniXZ
+    Registered Name: ApproachIniXZ
+    No Interupt: True
+
+[831000] GOAL_Mefist_831000_Battle
+    Registered Name: mefist_831000Battle
+    No Update: True
+
+[304005] GOAL_Kimera304000_Battle_Bite
+    Registered Name: Kimera304000Battle_Bite
+    No Interupt: True
+    No Update: True
+
+[207500] GOAL_Ryosyudama207500_Battle
+    Registered Name: Ryosyudama207500Battle
+    No Interupt: True
+    No Update: True
+
+[2014] GOAL_COMMON_Step
+    Registered Name: Step
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+
+[211005] GOAL_uroko211005_Battle
+    Registered Name: uroko211005_Battle
+
+[304006] GOAL_Kimera304000_Battle_BiteAction
+    Registered Name: Kimera304000Battle_BiteAct
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+
+[305090] GOAL_Gagoiru305000_LandBattle
+    Registered Name: Gagoiru305000LandBattle
+    No Update: True
+
+[2106] GOAL_COMMON_Attack2
+    Registered Name: Attack2
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        çUåÇëŒè€ÅyTypeÅz
+        ê¨å˜ãóó£ÅyTypeÅz
+        çUåÇëOê˘âÒéûä‘ÅyïbÅz
+        EzStateî‘çÜ
+
+
+
+
+
+GOAL_COMMON_NonBattleAct
+ìGÇ¢ÇΩÇÁèIóπÅH
+ëñÇÈÅH
+ê˘âÒÅyTYPEÅz
+ëÉÇÃìûíÖãóó£ÅymÅz
+ë“ã@éûÉSÅ[Éã
+
+GOAL_COMMON_Turn
+ê≥ñ îªíËäpìx
+
+GOAL_COMMON_TurnAround
+ëŒè€ÇÃï˚å¸ÅyTypeÅz
+äpìxÅyìxÅz
+ï‡Ç≠?
+éıñΩÇ≈ê¨å˜ÅH
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_NonspinningAttack
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+
+GOAL_COMMON_ContinueAttack
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyÇçÅz
+ñΩíÜÇµÇΩÇÁê¨å˜ÅH
+
+GOAL_COMMON_DashAttack
+çUåÇäJénãóó£ÅymÅz
+çUåÇEzStateî‘çÜ
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_DashAttack_Attack
+çUåÇEzStateî‘çÜ
+
+GOAL_COMMON_ApproachTarget
+ìûíBîªíËãóó£ÅymÅz
+ê˘âÒëŒè€ÅyTypeÅz
+ï‡Ç≠?
+ÉKÅ[ÉhEzStateî‘çÜ
+
+GOAL_COMMON_Fall
+óéâ∫äJénEzStateî‘çÜ
+óéâ∫í‚é~EzStateî‘çÜ
+óéâ∫í‚é~É}Å[ÉWÉì[m]
+
+GOAL_COMMON_Attack3
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+çUåÇëOê˘âÒéûä‘ÅyïbÅz
+ê≥ñ îªíËäpìxÅyìxÅz
+ïKÇ∏ê¨å˜Ç∑ÇÈÇ©ÅH
+
+GOAL_COMMON_Attack2
+çUåÇëŒè€ÅyTypeÅz
+ê¨å˜ãóó£ÅyTypeÅz
+çUåÇëOê˘âÒéûä‘ÅyïbÅz
+

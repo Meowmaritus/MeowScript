@@ -1,0 +1,3332 @@
+[1] GOAL_COMMON_Normal
+
+[2] GOAL_COMMON_Stay
+
+[3] GOAL_COMMON_WalkAround
+
+[4] GOAL_COMMON_BackToHome
+
+[10011] GOAL_GuardTest_010011_Battle
+
+[6550] GOAL_TempleKnight6550_Battle
+
+[256002] GOAL_LightKnight_Rapier256002_Battle
+
+[253000] GOAL_HusiMino_Kon253000_Battle
+
+[6560] GOAL_StingKnight6560_Battle
+
+[6051] GOAL_SanzA6051_Battle
+
+[6570] GOAL_YellowMantle6570_Battle
+
+[413000] GOAL_Kyu_Jujin413000_Battle
+
+[5] GOAL_COMMON_NonBattleAct
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    Parameter Names:
+        “G‚¢‚½‚çI—¹H
+        ‘–‚éH
+        ù‰ñyTYPEz
+        ‘ƒ‚Ì“’…‹——£ymz
+        ‘Ò‹@ƒS[ƒ‹
+        “G‚É”½‰‚·‚é‹——£ymz
+
+[221000] GOAL_Bourei221000_Battle
+
+[6580] GOAL_Habel6580_Battle
+
+[291000] GOAL_BigSk_Sword291000_Battle
+
+[320000] GOAL_Funiku320000_Battle
+
+[291001] GOAL_BigSk_Bow291001_Battle
+
+[349000] GOAL_DriftItemGood349000_Battle
+
+[6600] GOAL_Licarl6600_Battle
+
+[349001] GOAL_DriftItemGood349000_Runaway
+    No Interupt: True
+
+[250001] GOAL_Husi_Torch250001_Battle
+
+[6610] GOAL_CrystalKnight6610_Battle
+
+[6620] GOAL_Sister_of_Kuragu6620_Battle
+
+[250002] GOAL_Husi_m11_250002_Battle
+
+[343000] GOAL_Hellkite343000_Battle
+
+[523000] GOAL_KingIzalis523000_Battle
+
+[535000] GOAL_Gargoyle535000_Battle
+
+[250003] GOAL_Husi_Torch250003_Battle
+
+[6640] GOAL_DarkMoon_Juu6640_Battle
+
+[2050] GOAL_COMMON_LiftOff
+    No Interupt: True
+
+[6650] GOAL_DarkMoon_Kei6650_Battle
+
+[2052] GOAL_COMMON_Landing_Move
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[250004] GOAL_Husi250004_Battle
+
+[2054] GOAL_COMMON_ComeDown
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[279001] GOAL_BlackKnight_Lar_Sw279001_Battle
+
+[2056] GOAL_COMMON_DoorAct
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.3
+    No Interupt: True
+
+[2057] GOAL_COMMON_KeepDistYAxis
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.6
+    No Interupt: True
+
+[279002] GOAL_BlackKnight_Ax279002_Battle
+
+[2060] GOAL_COMMON_ApproachSettingDirection
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        “’B”»’è‹——£
+        ù‰ñ‘ÎÛ
+        •à‚­?
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®•ûŒü
+        w’è•ûŒü‚Ö‚Ì‹——£
+        ˆÚ“®‘ÎÛ
+
+[250005] GOAL_Husi_Bow250005_Battle
+
+[279003] GOAL_BlackKnight_Spear279003_Battle
+
+[20000] LOGIC_ID_Hitugi20000
+
+[273000] GOAL_Heroine273000_Battle
+
+[241000] GOAL_WhiteKnight_Sword241000_Battle
+
+[1550] LOGIC_ID_AutoTest1550
+
+[1551] LOGIC_ID_AutoTest1551
+
+[241001] GOAL_WhiteKnight_Lar_Sw241001_Battle
+
+[418000] GOAL_Chainman418000_Battle
+
+[527100] GOAL_Griffith_large527100_Battle
+
+[267000] LOGIC_ID_Ghost_Runaway267000
+
+[347100] GOAL_GoldenChimera347100_Battle
+
+[238000] GOAL_ClayDoll238000_Battle
+
+[325000] GOAL_IzalisQueen325000_Battle
+
+[347101] GOAL_GoldenChimera347101_Battle
+
+[6740] GOAL_Kiaran6740_Battle
+
+[206000] GOAL_Ghoul_Sword206000_Battle
+
+[2101] GOAL_COMMON_Guard
+
+[2102] GOAL_COMMON_ComboAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2103] GOAL_COMMON_GuardBreakAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2104] GOAL_COMMON_NonspinningAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[290000] GOAL_Skeleton_Falchion290000_Battle
+
+[2107] GOAL_COMMON_ApproachStep
+
+[13002] GOAL_PGTest13002_Battle
+
+[13006] GOAL_PGTest13006_Battle
+
+[2110] GOAL_COMMON_DashAttack_Attack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        UŒ‚EzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[348000] GOAL_Taiyoutyuu347000_Battle
+
+[2113] GOAL_COMMON_Parry
+
+[2114] GOAL_COMMON_SpecialTurn
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ù‰ñŠp“x
+        EzState”Ô†
+
+[2115] GOAL_COMMON_ObjActTest
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.6
+    No Interupt: True
+
+[2116] GOAL_COMMON_TeamCallHelp
+    No Interupt: True
+
+[2117] GOAL_COMMON_TeamReplyHelp
+    No Interupt: True
+
+[290004] GOAL_Sk_LarFal_non_scr290004_Battle
+
+[284000] GOAL_HusiCongestion_Torch284000_Battle
+
+[232000] GOAL_IronGolem232000_Battle
+
+[10000] LOGIC_ID_Common10000
+
+[10004] GOAL_Test10004_Battle
+
+[284001] GOAL_HusiCongestion_Hand284001_Battle
+
+[6802] GOAL_BanditB6802_Battle
+
+[6804] GOAL_BanditD6804_Battle
+
+[6806] GOAL_BanditF6806_Battle
+
+[533000] GOAL_Searcher533000_Battle
+
+[342001] GOAL_WalkingDraZonbi342001_Battle
+
+[271100] GOAL_CrystalAmber271100_Battle
+
+[533002] GOAL_Searcher_of_King533002_Battle
+
+[342002] GOAL_DragonZombi_m16_342002_Battle
+
+[278000] GOAL_Mimic278000_Battle
+
+[229000] GOAL_Kusaridama229000_Battle
+
+[10100] LOGIC_ID_Gitai10100
+
+[452000] GOAL_HolySwordWolf452000_Battle
+
+[330000] GOAL_CrystalLizard330000_Battle
+
+[255000] GOAL_HusiHeavy_Spear255000_Battle
+
+[330001] GOAL_CrystalLizard330000_Runaway
+    No Interupt: True
+
+[330002] GOAL_CrystalLizard330000_Hide
+    No Interupt: True
+    No Update: True
+
+[417000] GOAL_HumanityS417000_Battle
+
+[266000] GOAL_Husi_Chef266000_Battle
+
+[223000] GOAL_GreaterDemon223000_Battle
+
+[532000] GOAL_ImperialMother532000_Battle
+
+[346100] GOAL_ArmoredTask_BackGuard346100_Battle
+
+[200] GOAL_AItest000200_Battle
+
+[255002] GOAL_HusiHeavy_Bow255002_Battle
+
+[252000] GOAL_Husi_robber252000_Battle
+
+[6910] GOAL_FUSHI6910_Battle
+
+[353000] GOAL_LakeBeast353000_Battle
+
+[353001] GOAL_LakeBeast_m12_353001_Battle
+
+[255003] GOAL_HusiHeavy_Bow255003_Battle
+
+[411000] GOAL_Go_HawkEye411000_Battle
+
+[520100] GOAL_MukadeUde520100_Battle
+
+[347000] GOAL_GoldenChimera347000_Battle
+
+[2200] GOAL_COMMON_CommonAttack
+
+[2210] GOAL_COMMON_ComboRepeat
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2211] GOAL_COMMON_ComboFinal
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[283001] GOAL_HusiPhalanx283001_Battle
+
+[341000] GOAL_Kaeruei341000_Battle
+
+[521000] GOAL_HolySwordWolf521000_Battle
+
+[2220] GOAL_COMMON_AttackTunableSpin
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔ
+        ³–Ê”»’èŠp“x
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2221] GOAL_COMMON_ComboAttackTunableSpin
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2230] GOAL_COMMON_ComboAttack_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2231] GOAL_COMMON_ComboRepeat_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[335000] GOAL_WalkingTree335000_Battle
+
+[13003] GOAL_PGTest13003_Battle
+
+[13007] GOAL_PGTest13007_Battle
+
+[2240] GOAL_COMMON_Pursuit
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[223200] GOAL_MiniGreaterDemon223200_Battle
+
+[6010] GOAL_DarkMoonKnight6010_Battle
+
+[535100] GOAL_Gargoyle_m15_535100_Battle
+
+[271000] GOAL_Crystal271000_Battle
+
+[451000] GOAL_BlackDragon451000_Battle
+
+[6531] GOAL_PondAunt_Enemy6531_Battle
+
+[240000] GOAL_Assassin240000_Battle
+
+[2250] GOAL_COMMON_NonspinningComboAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[2251] GOAL_COMMON_NonspinningComboRepeat
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[2252] GOAL_COMMON_NonspinningComboFinal
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[10005] GOAL_DS2Test10005_Battle
+
+[2254] GOAL_COMMON_GuardBreakTunable
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[240001] GOAL_Assassin_shot240001_Battle
+
+[6040] GOAL_Pupil_of_Logarn6040_Battle
+
+[416000] GOAL_ShinenBito_Sorcerer416000_Battle
+
+[265000] GOAL_Husi_Haka265000_Battle
+
+[6050] GOAL_Stateless_princess6050_Battle
+
+[530000] GOAL_Hushiou_Ja_yearl530000_Battle
+
+[294000] GOAL_Skeleton_baby294000_Battle
+
+[237000] GOAL_FourKnightD237000_Battle
+
+[323000] GOAL_Kagerou323000_Battle
+
+[120001] GOAL_KingInunezumi120001_Battle
+
+[352000] GOAL_wyvern352000_Battle
+
+[323001] GOAL_Kagerou_m17_323001_Battle
+
+[6070] GOAL_White_HolyWoman6070_Battle
+
+[237001] GOAL_FourKnightD_m17_237001_Battle
+
+[352001] GOAL_wyvern352001_Battle
+
+[281100] GOAL_HusiBanIwa281100_Battle
+
+[410000] GOAL_Artorius410000_Battle
+
+[6080] GOAL_Knight_of_HolyWomanA6080_Battle
+
+[352002] GOAL_wyvern_on_earth352002_Battle
+
+[7110] GOAL_m10_01_VNPC_Tohzoku7110_Battle
+
+[6090] GOAL_Knight_of_HolyWomanB6090_Battle
+
+[120002] GOAL_Inunezumi120002_Battle
+
+[255001] GOAL_HusiHeavy_Long255001_Battle
+
+[7120] GOAL_m11_00_VNPC_Hourou7120_Battle
+
+[6100] GOAL_Knight_of_HolyWomanC6100_Battle
+
+[6511] GOAL_BlackIron_Knight_Enemy6511_Battle
+
+[253002] GOAL_HusiMino_Gun253002_Battle
+
+[352005] GOAL_wyvern352005_Battle
+
+[7130] GOAL_m12_00_VNPC_Kariudo7130_Battle
+
+[30000] GOAL_Common_Leave_Target30000_Battle
+
+[253100] GOAL_HusiMino_Rock253100_Battle
+
+[14000] GOAL_DS2PGTest14000_Battle
+
+[7131] GOAL_m12_00_VNPC_Kariudo7131_Battle
+
+[7140] GOAL_m13_00_VNPC_Seishoku7140_Battle
+
+[6052] GOAL_SanzB6052_Battle
+
+[282000] GOAL_HusiKuragu282000_Battle
+
+[231000] GOAL_Kyochojin231000_Battle
+
+[7230] GOAL_m18_00_VNPC_Motazaru7230_Battle
+
+[7150] GOAL_m13_01_VNPC_Seishoku7150_Battle
+
+[6130] GOAL_Magician_of_Pot6130_Battle
+
+[520200] GOAL_MukadeSippo520200_Battle
+
+[340000] GOAL_KuraguSpider_Child340000_Battle
+
+[520000] GOAL_Mukade520000_Battle
+
+[7160] GOAL_m13_02_VNPC_Doragon7160_Battle
+
+[529000] GOAL_WhiteDragon_Seath529000_Battle
+
+[10009] GOAL_HusiHeavy_Spear010009_Battle
+
+[529001] GOAL_WD_Seath_Muteki529001_Battle
+
+[334000] GOAL_blackDog334000_Battle
+
+[7170] GOAL_m14_00_VNPC_Hourou7170_Battle
+
+[290001] GOAL_Skeleton_Bow290001_Battle
+
+[2019] GOAL_COMMON_MoveToSomewhere
+
+[120101] GOAL_SmallInunezumi120101_Battle
+
+[120200] GOAL_BigInunezumi120200_Battle
+
+[7180] GOAL_m14_01_VNPC_Jujutsu7180_Battle
+
+[523100] GOAL_KingIzalis_Second523100_Battle
+
+[6020] GOAL_Knight_Ostra6020_Battle
+
+[120100] GOAL_SmallInunezumi120100_Battle
+
+[241003] GOAL_WhiteKnight_Spear241003_Battle
+
+[7190] GOAL_m15_00_VNPC_Senshi7190_Battle
+
+[257000] GOAL_HeavyKnight_Sword257000_Battle
+
+[243000] GOAL_MovingStatue243000_Battle
+
+[228001] GOAL_KinokoChild_m12_228001_Battle
+
+[6510] LOGIC_ID_BlackIron_Knight6510
+
+[7200] GOAL_m15_01_VNPC_Kishi7200_Battle
+
+[6180] GOAL_Healer6180_Battle
+
+[254001] GOAL_HusiFight_Ax254001_Battle
+
+[254002] GOAL_HusiFight_FireBom254002_Battle
+
+[257001] GOAL_HeavyKnight_Mace257001_Battle
+
+[7210] GOAL_m16_00_VNPC_Sanzoku7210_Battle
+
+[20100] LOGIC_ID_ObjAction20100
+
+[225000] GOAL_Hammer_m10_225000_Battle
+
+[540000] GOAL_Boss_Izalis540000_Battle
+
+[350100] GOAL_Wisp350100_Battle
+
+[7220] GOAL_m17_00_VNPC_Majutsu7220_Battle
+
+[254003] GOAL_HusiFight_Sword_m11_254003_Battle
+
+[254004] GOAL_HusiFight_FireBom_eve254004_Battle
+
+[254000] GOAL_HusiFight_Sword254000_Battle
+
+[206002] GOAL_Ghoul_Human206002_Battle
+
+[225001] GOAL_Hammer_m11_225001_Battle
+
+[228000] GOAL_KinokoChild228000_Battle
+
+[450000] GOAL_TheAbyss450000_Battle
+
+[256001] GOAL_LightKnight_Bow256001_Battle
+
+[264000] GOAL_KajiyaAndre264000_Battle
+
+[7240] GOAL_m18_01_VNPC_Motazaru7240_Battle
+
+[6220] GOAL_Blacksmith_Rickelt6220_Battle
+
+[1540] LOGIC_ID_Wataa1540
+
+[225002] GOAL_Hammer225002_Battle
+
+[270001] GOAL_HebibitoB_shot270001_Battle
+
+[528000] GOAL_CragSpider528000_Battle
+
+[15000] GOAL_DS2AutoTest15000_Battle
+
+[2051] GOAL_COMMON_Landing
+    No Interupt: True
+    No Update: True
+
+[10001] LOGIC_ID_Common_DoObjAct10001
+
+[322000] GOAL_Kisei322000_Battle
+
+[251000] GOAL_HusibitoKojiki251000_Battle
+
+[352003] GOAL_wyvern_on_earth352003_Battle
+
+[351000] GOAL_BigCrow351000_Battle
+
+[2053] GOAL_COMMON_Landing_Landing
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[290002] GOAL_Sk_Large_Falchion290002_Battle
+
+[230002] GOAL_HaikaiDemon_oujou230002_Battle
+
+[6250] GOAL_Frustrated_merchant6250_Battle
+
+[13000] GOAL_PGTest13000_Battle
+
+[409000] GOAL_SniperA409000_Battle
+
+[13008] GOAL_PGTest13008_Battle
+
+[10010] GOAL_HasigoTest10010_Battle
+
+[6260] GOAL_TrickStar6260_Battle
+
+[6000] GOAL_Knight_of_Sun6000_Battle
+
+[287000] GOAL_GiantKnight287000_Battle
+
+[2105] GOAL_COMMON_ContinueAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£y‚z
+        –½’†‚µ‚½‚ç¬Œ÷H
+        EzState”Ô†
+
+[12010] GOAL_NpcPlayerTest_Battle
+
+[6270] GOAL_Frustrated_Fighter6270_Battle
+
+[287001] GOAL_GiantKnight_low287001_Battle
+
+[11000] LOGIC_ID_Nanimosinai11000
+
+[345000] GOAL_Zazen345000_Battle
+
+[324000] GOAL_Izalis324000_Battle
+
+[6280] GOAL_OnionKnight6280_Battle
+
+[539000] GOAL_Ja_yearl_demon539000_Battle
+
+[254005] GOAL_HusiFight_Sword_eve254005_Battle
+
+[10002] LOGIC_ID_Husi_Runaway10002
+
+[10006] GOAL_Test10006_Battle
+
+[6801] GOAL_BanditA6801_Battle
+
+[6803] GOAL_BanditC6803_Battle
+
+[6805] GOAL_BanditE6805_Battle
+
+[7111] GOAL_m10_01_VNPC_Touzoku7111_Battle
+
+[281000] GOAL_HusiBan281000_Battle
+
+[6300] GOAL_HeldKnight_laughtrec6300_Battle
+
+[255006] GOAL_HusiHeavy_Bow_only255006_Battle
+
+[342000] GOAL_DragonZombi342000_Battle
+
+[500] GOAL_HusiHeavy_Spear000500_Battle
+
+[342100] GOAL_DraZonbiLegs342100_Battle
+
+[339000] GOAL_Burrower339000_Battle
+
+[268000] GOAL_Ghost_Female268000_Battle
+
+[2000] GOAL_COMMON_Wait
+
+[527000] GOAL_Griffith527000_Battle
+
+[339001] GOAL_Burrower_A339001_Battle
+
+[6320] GOAL_CowardInGraveyard_Patch6320_Battle
+
+[6290] GOAL_Daughter_of_OnionKnight6290_Battle
+
+[283000] GOAL_HusiPhalanx283000_Battle
+
+[339002] GOAL_Burrower_B339002_Battle
+
+[522000] GOAL_Hakaoh522000_Battle
+
+[6590] LOGIC_ID_HeldKnight_laughtrec6590
+
+[275000] GOAL_Gray_HolyWoman275000_Battle
+
+[339003] GOAL_Burrower_C339003_Battle
+
+[2109] GOAL_COMMON_DashAttack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        UŒ‚ŠJn‹——£ymz
+        UŒ‚EzState”Ô†
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[533001] GOAL_YamiNadeCURSE533001_Battle
+
+[6340] GOAL_YamiNadeCURSE6320_Battle
+
+[2001] GOAL_COMMON_Turn
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+    Parameter Names:
+        ³–Ê”»’èŠp“x
+        ù‰ñƒ^[ƒQƒbƒg
+
+[333000] GOAL_Pisaca333000_Battle
+
+[536000] GOAL_LargeCat536000_Battle
+
+[290003] GOAL_Sk_Fal_non_screw290003_Battle
+
+[6350] GOAL_Painter_Eraymiath6350_Battle
+
+[333001] GOAL_Pisaca_Sisters333001_Battle
+
+[251001] GOAL_KojikiShouninA251001_Battle
+
+[2100] GOAL_COMMON_Attack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[6920] GOAL_SHOUNIN6920_Battle
+
+[279000] GOAL_BlackKnight_Sword279000_Battle
+
+[349002] GOAL_DriftItemGood349000_Hide
+    No Interupt: True
+    No Update: True
+
+[259100] GOAL_koushi_Anger259100_Battle
+
+[269000] GOAL_HebibitoA269000_Battle
+
+[13004] GOAL_PGTest13004_Battle
+
+[6370] GOAL_DragonOracle6370_Battle
+
+[349100] GOAL_DriftItemEvil349100_Battle
+
+[239000] GOAL_Darkwraith239000_Battle
+
+[6271] GOAL_Frustrated_FighterH6271_Battle
+
+[327000] GOAL_basilisk327000_Battle
+
+[346000] GOAL_ArmoredTask346000_Battle
+
+[2021] GOAL_COMMON_Fall
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        —‰ºŠJnEzState”Ô†
+        —‰º’â~EzState”Ô†
+        —‰º’â~ƒ}[ƒWƒ“[m]
+        ƒ^[ƒQƒbƒgyTypez
+
+[514000] GOAL_DragonTEST514000_Battle
+
+[270000] GOAL_HebibitoB270000_Battle
+
+[0] LOGIC_ID_Default
+
+[6390] GOAL_Laughtrec_Helper6390_Battle
+
+[329000] GOAL_Ohmushi329000_Battle
+
+[10008] GOAL_Test10008_Battle
+
+[241002] GOAL_WhiteKnight_Ax241002_Battle
+
+[415000] LOGIC_ID_ShinenBito415000
+
+[412000] GOAL_Kyu_DoguKishi412000_Battle
+
+[332000] GOAL_ThreeHaori332000_Battle
+
+[526000] GOAL_Donsyoku526000_Battle
+
+[292000] GOAL_HonebutoSk_Kouhu292000_Battle
+
+[236000] GOAL_FourKnightC236000_Battle
+
+[241004] GOAL_WhiteKnight_Bow241004_Battle
+
+[321000] GOAL_Tamago321000_Battle
+
+[292001] GOAL_HonebutoSk_Senshi292001_Battle
+
+[334100] GOAL_FlameDog334100_Battle
+
+[350000] GOAL_Bigjelly350000_Battle
+
+[6420] GOAL_Ninja6420_Battle
+
+[6170] GOAL_Roaming_Chaos6170_Battle
+
+[236001] GOAL_FourKnightC_Thunder236001_Battle
+
+[337000] GOAL_Kinobori337000_Battle
+
+[6450] GOAL_Falcon_girl6450_Battle
+
+[2055] GOAL_COMMON_LadderAct
+    No Interupt: True
+
+[120300] GOAL_SnowInunezumi120300_Battle
+
+[2017] GOAL_COMMON_SidewayMove
+
+[338000] GOAL_Leech338000_Battle
+
+[206001] GOAL_Ghoul_Spear206001_Battle
+
+[286000] GOAL_Giant286000_Battle
+
+[233000] GOAL_Jujin233000_Battle
+
+[295000] GOAL_Skeleton_Beast295000_Battle
+
+[417200] GOAL_HumanityL417200_Battle
+
+[286001] GOAL_Giant_nt286001_Battle
+
+[1000] GOAL_COMMON_If
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 1
+    No Interupt: True
+    Parameter Names:
+        ¯•Ê—pƒR[ƒhNo
+
+[223100] GOAL_SnowDemon223100_Battle
+
+[524000] GOAL_PrinceIzalis524000_Battle
+
+[120000] GOAL_Inunezumi120000_Battle
+
+[537000] GOAL_FirewoodKing537000_Battle
+
+[9999] GOAL_COMMON_Template
+
+[2002] GOAL_COMMON_TurnAround
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        ‘ÎÛ‚Ì•ûŒüyTypez
+        Šp“xy“xz
+        •à‚­?
+        õ–½‚Å¬Œ÷H
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[201000] GOAL_IppanLONG201000_Battle
+
+[7100] GOAL_m10_00_VNPC_Senshi7100_Battle
+
+[2108] GOAL_COMMON_UseItem
+    No Interupt: True
+    No Update: True
+
+[6551] GOAL_TempleKnight_Enemy6551_Battle
+
+[6310] GOAL_Nobushi6310_Battle
+
+[280000] GOAL_HusiCrystal_Sword280000_Battle
+
+[230000] GOAL_HaikaiDemon230000_Battle
+
+[14001] GOAL_DS2PGTest14001_Battle
+
+[309000] GOAL_Ooka309000_Battle
+
+[280001] GOAL_HusiCrystal_Bow280001_Battle
+
+[226000] GOAL_SpearDemon226000_Battle
+
+[15001] GOAL_DS2AutoTest15001_Battle
+
+[13005] GOAL_PGTest13005_Battle
+
+[6490] GOAL_Attendant_of_laughtrecA6490_Battle
+
+[525000] GOAL_Tadare525000_Battle
+
+[417100] GOAL_HumanityM417100_Battle
+
+[2253] GOAL_COMMON_ComboTunable_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[253001] GOAL_HusiMino_Poison253001_Battle
+
+[6500] GOAL_Attendant_of_laughtrecB6500_Battle
+
+[6030] GOAL_BigHat_Logarn6030_Battle
+
+[293000] GOAL_Syarin293000_Battle
+
+[3001] GOAL_KAMISAMA_Teleport
+
+[13001] GOAL_PGTest13001_Battle
+
+[227000] GOAL_Kinoko227000_Battle
+
+[13009] GOAL_PGTest13009_Battle
+
+[2015] GOAL_COMMON_ApproachTarget
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        “’B”»’è‹——£
+        ù‰ñ‘ÎÛ
+        •à‚­?
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛ
+
+[250000] GOAL_Husi250000_Battle
+
+[2016] GOAL_COMMON_LeaveTarget
+
+[6520] LOGIC_ID_Witch6520
+
+[256000] GOAL_LightKnight_Sword256000_Battle
+
+[296000] GOAL_totem296000_Battle
+
+[2018] GOAL_COMMON_KeepDist
+
+[332001] GOAL_ThreeHaoriBunsin332001_Battle
+
+[6530] GOAL_PondAunt6530_Battle
+
+[807000] GOAL_Ouji_807000_Battle
+
+[2020] GOAL_COMMON_SpinStep
+
+[332002] GOAL_ThreeHaori_nomal332002_Battle
+
+[419000] GOAL_BlackDragonsDog419000_Battle
+
+[6540] GOAL_SunKnight6540_Battle
+
+[2022] GOAL_COMMON_MoveToMovePointAir
+
+[224000] GOAL_Nata224000_Battle
+
+[1541] LOGIC_ID_Wataa1541
+
+
+
+
+
+goal:AddSubGoal(GOAL_COMMON_NonBattleAct, life, --[[“G‚¢‚½‚çI—¹H]], --[[‘–‚éH]], --[[ù‰ñyTYPEz]], --[[‘ƒ‚Ì“’…‹——£ymz]], --[[‘Ò‹@ƒS[ƒ‹]])
+goal:AddSubGoal(GOAL_COMMON_ApproachSettingDirection, life, --[[“’B”»’è‹——£]], --[[ù‰ñ‘ÎÛ]], --[[•à‚­?]], --[[ƒK[ƒhEzState”Ô†]], --[[ˆÚ“®•ûŒü]], --[[w’è•ûŒü‚Ö‚Ì‹——£]])
+goal:AddSubGoal(GOAL_COMMON_ComboAttack, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_GuardBreakAttack, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_NonspinningAttack, life, --[[UŒ‚‘ÎÛyTypez]], --[[¬Œ÷‹——£yTypez]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_DashAttack_Attack, life, --[[UŒ‚EzState”Ô†]])
+goal:AddSubGoal(GOAL_COMMON_SpecialTurn, life, --[[UŒ‚‘ÎÛyTypez]], --[[ù‰ñŠp“x]])
+goal:AddSubGoal(GOAL_COMMON_ComboRepeat, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_ComboFinal, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_AttackTunableSpin, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[UŒ‚‘Où‰ñŠÔ]], --[[³–Ê”»’èŠp“x]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_ComboAttackTunableSpin, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[UŒ‚‘Où‰ñŠÔy•bz]], --[[³–Ê”»’èŠp“xy“xz]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_ComboAttack_SuccessAngle180, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_ComboRepeat_SuccessAngle180, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_Pursuit, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_NonspinningComboAttack, life, --[[UŒ‚‘ÎÛyTypez]], --[[¬Œ÷‹——£yTypez]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_NonspinningComboRepeat, life, --[[UŒ‚‘ÎÛyTypez]], --[[¬Œ÷‹——£yTypez]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_NonspinningComboFinal, life, --[[UŒ‚‘ÎÛyTypez]], --[[¬Œ÷‹——£yTypez]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_GuardBreakTunable, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[UŒ‚‘Où‰ñŠÔy•bz]], --[[³–Ê”»’èŠp“xy“xz]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_ContinueAttack, life, --[[UŒ‚‘ÎÛyTypez]], --[[¬Œ÷‹——£y‚z]], --[[–½’†‚µ‚½‚ç¬Œ÷H]])
+goal:AddSubGoal(GOAL_COMMON_DashAttack, life, --[[UŒ‚ŠJn‹——£ymz]], --[[UŒ‚EzState”Ô†]], --[[ƒK[ƒhEzState”Ô†]])
+goal:AddSubGoal(GOAL_COMMON_Turn, life, --[[³–Ê”»’èŠp“x]])
+goal:AddSubGoal(GOAL_COMMON_Attack, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_Fall, life, --[[—‰ºŠJnEzState”Ô†]], --[[—‰º’â~EzState”Ô†]], --[[—‰º’â~ƒ}[ƒWƒ“[m]]])
+goal:AddSubGoal(GOAL_COMMON_If, life, --[[¯•Ê—pƒR[ƒhNo]])
+goal:AddSubGoal(GOAL_COMMON_TurnAround, life, --[[‘ÎÛ‚Ì•ûŒüyTypez]], --[[Šp“xy“xz]], --[[•à‚­?]], --[[õ–½‚Å¬Œ÷H]], --[[ƒK[ƒhEzState”Ô†]])
+goal:AddSubGoal(GOAL_COMMON_ComboTunable_SuccessAngle180, life, --[[UŒ‚‘ÎÛ]], --[[¬Œ÷‹——£]], --[[UŒ‚‘Où‰ñŠÔy•bz]], --[[³–Ê”»’èŠp“xy“xz]], --[[ãUŒ‚Šp“x]], --[[‰ºUŒ‚Šp“x]])
+goal:AddSubGoal(GOAL_COMMON_ApproachTarget, life, --[[“’B”»’è‹——£]], --[[ù‰ñ‘ÎÛ]], --[[•à‚­?]], --[[ƒK[ƒhEzState”Ô†]])
+[1] GOAL_COMMON_Normal
+
+[2] GOAL_COMMON_Stay
+
+[3] GOAL_COMMON_WalkAround
+
+[4] GOAL_COMMON_BackToHome
+
+[10011] GOAL_GuardTest_010011_Battle
+
+[6550] GOAL_TempleKnight6550_Battle
+
+[256002] GOAL_LightKnight_Rapier256002_Battle
+
+[253000] GOAL_HusiMino_Kon253000_Battle
+
+[6560] GOAL_StingKnight6560_Battle
+
+[6051] GOAL_SanzA6051_Battle
+
+[6570] GOAL_YellowMantle6570_Battle
+
+[413000] GOAL_Kyu_Jujin413000_Battle
+
+[5] GOAL_COMMON_NonBattleAct
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    Parameter Names:
+        “G‚¢‚½‚çI—¹H
+        ‘–‚éH
+        ù‰ñyTYPEz
+        ‘ƒ‚Ì“’…‹——£ymz
+        ‘Ò‹@ƒS[ƒ‹
+        “G‚É”½‰‚·‚é‹——£ymz
+
+[221000] GOAL_Bourei221000_Battle
+
+[6580] GOAL_Habel6580_Battle
+
+[291000] GOAL_BigSk_Sword291000_Battle
+
+[320000] GOAL_Funiku320000_Battle
+
+[291001] GOAL_BigSk_Bow291001_Battle
+
+[349000] GOAL_DriftItemGood349000_Battle
+
+[6600] GOAL_Licarl6600_Battle
+
+[349001] GOAL_DriftItemGood349000_Runaway
+    No Interupt: True
+
+[250001] GOAL_Husi_Torch250001_Battle
+
+[6610] GOAL_CrystalKnight6610_Battle
+
+[6620] GOAL_Sister_of_Kuragu6620_Battle
+
+[250002] GOAL_Husi_m11_250002_Battle
+
+[343000] GOAL_Hellkite343000_Battle
+
+[523000] GOAL_KingIzalis523000_Battle
+
+[535000] GOAL_Gargoyle535000_Battle
+
+[250003] GOAL_Husi_Torch250003_Battle
+
+[6640] GOAL_DarkMoon_Juu6640_Battle
+
+[2050] GOAL_COMMON_LiftOff
+    No Interupt: True
+
+[6650] GOAL_DarkMoon_Kei6650_Battle
+
+[2052] GOAL_COMMON_Landing_Move
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[250004] GOAL_Husi250004_Battle
+
+[2054] GOAL_COMMON_ComeDown
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[279001] GOAL_BlackKnight_Lar_Sw279001_Battle
+
+[2056] GOAL_COMMON_DoorAct
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.3
+    No Interupt: True
+
+[2057] GOAL_COMMON_KeepDistYAxis
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.6
+    No Interupt: True
+
+[279002] GOAL_BlackKnight_Ax279002_Battle
+
+[2060] GOAL_COMMON_ApproachSettingDirection
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        “’B”»’è‹——£
+        ù‰ñ‘ÎÛ
+        •à‚­?
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®•ûŒü
+        w’è•ûŒü‚Ö‚Ì‹——£
+        ˆÚ“®‘ÎÛ
+
+[250005] GOAL_Husi_Bow250005_Battle
+
+[279003] GOAL_BlackKnight_Spear279003_Battle
+
+[20000] LOGIC_ID_Hitugi20000
+
+[273000] GOAL_Heroine273000_Battle
+
+[241000] GOAL_WhiteKnight_Sword241000_Battle
+
+[1550] LOGIC_ID_AutoTest1550
+
+[1551] LOGIC_ID_AutoTest1551
+
+[241001] GOAL_WhiteKnight_Lar_Sw241001_Battle
+
+[418000] GOAL_Chainman418000_Battle
+
+[527100] GOAL_Griffith_large527100_Battle
+
+[267000] LOGIC_ID_Ghost_Runaway267000
+
+[347100] GOAL_GoldenChimera347100_Battle
+
+[238000] GOAL_ClayDoll238000_Battle
+
+[325000] GOAL_IzalisQueen325000_Battle
+
+[347101] GOAL_GoldenChimera347101_Battle
+
+[6740] GOAL_Kiaran6740_Battle
+
+[206000] GOAL_Ghoul_Sword206000_Battle
+
+[2101] GOAL_COMMON_Guard
+
+[2102] GOAL_COMMON_ComboAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2103] GOAL_COMMON_GuardBreakAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2104] GOAL_COMMON_NonspinningAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[290000] GOAL_Skeleton_Falchion290000_Battle
+
+[2107] GOAL_COMMON_ApproachStep
+
+[13002] GOAL_PGTest13002_Battle
+
+[13006] GOAL_PGTest13006_Battle
+
+[2110] GOAL_COMMON_DashAttack_Attack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        UŒ‚EzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[348000] GOAL_Taiyoutyuu347000_Battle
+
+[2113] GOAL_COMMON_Parry
+
+[2114] GOAL_COMMON_SpecialTurn
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ù‰ñŠp“x
+        EzState”Ô†
+
+[2115] GOAL_COMMON_ObjActTest
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.6
+    No Interupt: True
+
+[2116] GOAL_COMMON_TeamCallHelp
+    No Interupt: True
+
+[2117] GOAL_COMMON_TeamReplyHelp
+    No Interupt: True
+
+[290004] GOAL_Sk_LarFal_non_scr290004_Battle
+
+[284000] GOAL_HusiCongestion_Torch284000_Battle
+
+[232000] GOAL_IronGolem232000_Battle
+
+[10000] LOGIC_ID_Common10000
+
+[10004] GOAL_Test10004_Battle
+
+[284001] GOAL_HusiCongestion_Hand284001_Battle
+
+[6802] GOAL_BanditB6802_Battle
+
+[6804] GOAL_BanditD6804_Battle
+
+[6806] GOAL_BanditF6806_Battle
+
+[533000] GOAL_Searcher533000_Battle
+
+[342001] GOAL_WalkingDraZonbi342001_Battle
+
+[271100] GOAL_CrystalAmber271100_Battle
+
+[533002] GOAL_Searcher_of_King533002_Battle
+
+[342002] GOAL_DragonZombi_m16_342002_Battle
+
+[278000] GOAL_Mimic278000_Battle
+
+[229000] GOAL_Kusaridama229000_Battle
+
+[10100] LOGIC_ID_Gitai10100
+
+[452000] GOAL_HolySwordWolf452000_Battle
+
+[330000] GOAL_CrystalLizard330000_Battle
+
+[255000] GOAL_HusiHeavy_Spear255000_Battle
+
+[330001] GOAL_CrystalLizard330000_Runaway
+    No Interupt: True
+
+[330002] GOAL_CrystalLizard330000_Hide
+    No Interupt: True
+    No Update: True
+
+[417000] GOAL_HumanityS417000_Battle
+
+[266000] GOAL_Husi_Chef266000_Battle
+
+[223000] GOAL_GreaterDemon223000_Battle
+
+[532000] GOAL_ImperialMother532000_Battle
+
+[346100] GOAL_ArmoredTask_BackGuard346100_Battle
+
+[200] GOAL_AItest000200_Battle
+
+[255002] GOAL_HusiHeavy_Bow255002_Battle
+
+[252000] GOAL_Husi_robber252000_Battle
+
+[6910] GOAL_FUSHI6910_Battle
+
+[353000] GOAL_LakeBeast353000_Battle
+
+[353001] GOAL_LakeBeast_m12_353001_Battle
+
+[255003] GOAL_HusiHeavy_Bow255003_Battle
+
+[411000] GOAL_Go_HawkEye411000_Battle
+
+[520100] GOAL_MukadeUde520100_Battle
+
+[347000] GOAL_GoldenChimera347000_Battle
+
+[2200] GOAL_COMMON_CommonAttack
+
+[2210] GOAL_COMMON_ComboRepeat
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2211] GOAL_COMMON_ComboFinal
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[283001] GOAL_HusiPhalanx283001_Battle
+
+[341000] GOAL_Kaeruei341000_Battle
+
+[521000] GOAL_HolySwordWolf521000_Battle
+
+[2220] GOAL_COMMON_AttackTunableSpin
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔ
+        ³–Ê”»’èŠp“x
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2221] GOAL_COMMON_ComboAttackTunableSpin
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2230] GOAL_COMMON_ComboAttack_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2231] GOAL_COMMON_ComboRepeat_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[335000] GOAL_WalkingTree335000_Battle
+
+[13003] GOAL_PGTest13003_Battle
+
+[13007] GOAL_PGTest13007_Battle
+
+[2240] GOAL_COMMON_Pursuit
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[223200] GOAL_MiniGreaterDemon223200_Battle
+
+[6010] GOAL_DarkMoonKnight6010_Battle
+
+[535100] GOAL_Gargoyle_m15_535100_Battle
+
+[271000] GOAL_Crystal271000_Battle
+
+[451000] GOAL_BlackDragon451000_Battle
+
+[6531] GOAL_PondAunt_Enemy6531_Battle
+
+[240000] GOAL_Assassin240000_Battle
+
+[2250] GOAL_COMMON_NonspinningComboAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[2251] GOAL_COMMON_NonspinningComboRepeat
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[2252] GOAL_COMMON_NonspinningComboFinal
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[10005] GOAL_DS2Test10005_Battle
+
+[2254] GOAL_COMMON_GuardBreakTunable
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[240001] GOAL_Assassin_shot240001_Battle
+
+[6040] GOAL_Pupil_of_Logarn6040_Battle
+
+[416000] GOAL_ShinenBito_Sorcerer416000_Battle
+
+[265000] GOAL_Husi_Haka265000_Battle
+
+[6050] GOAL_Stateless_princess6050_Battle
+
+[530000] GOAL_Hushiou_Ja_yearl530000_Battle
+
+[294000] GOAL_Skeleton_baby294000_Battle
+
+[237000] GOAL_FourKnightD237000_Battle
+
+[323000] GOAL_Kagerou323000_Battle
+
+[120001] GOAL_KingInunezumi120001_Battle
+
+[352000] GOAL_wyvern352000_Battle
+
+[323001] GOAL_Kagerou_m17_323001_Battle
+
+[6070] GOAL_White_HolyWoman6070_Battle
+
+[237001] GOAL_FourKnightD_m17_237001_Battle
+
+[352001] GOAL_wyvern352001_Battle
+
+[281100] GOAL_HusiBanIwa281100_Battle
+
+[410000] GOAL_Artorius410000_Battle
+
+[6080] GOAL_Knight_of_HolyWomanA6080_Battle
+
+[352002] GOAL_wyvern_on_earth352002_Battle
+
+[7110] GOAL_m10_01_VNPC_Tohzoku7110_Battle
+
+[6090] GOAL_Knight_of_HolyWomanB6090_Battle
+
+[120002] GOAL_Inunezumi120002_Battle
+
+[255001] GOAL_HusiHeavy_Long255001_Battle
+
+[7120] GOAL_m11_00_VNPC_Hourou7120_Battle
+
+[6100] GOAL_Knight_of_HolyWomanC6100_Battle
+
+[6511] GOAL_BlackIron_Knight_Enemy6511_Battle
+
+[253002] GOAL_HusiMino_Gun253002_Battle
+
+[352005] GOAL_wyvern352005_Battle
+
+[7130] GOAL_m12_00_VNPC_Kariudo7130_Battle
+
+[30000] GOAL_Common_Leave_Target30000_Battle
+
+[253100] GOAL_HusiMino_Rock253100_Battle
+
+[14000] GOAL_DS2PGTest14000_Battle
+
+[7131] GOAL_m12_00_VNPC_Kariudo7131_Battle
+
+[7140] GOAL_m13_00_VNPC_Seishoku7140_Battle
+
+[6052] GOAL_SanzB6052_Battle
+
+[282000] GOAL_HusiKuragu282000_Battle
+
+[231000] GOAL_Kyochojin231000_Battle
+
+[7230] GOAL_m18_00_VNPC_Motazaru7230_Battle
+
+[7150] GOAL_m13_01_VNPC_Seishoku7150_Battle
+
+[6130] GOAL_Magician_of_Pot6130_Battle
+
+[520200] GOAL_MukadeSippo520200_Battle
+
+[340000] GOAL_KuraguSpider_Child340000_Battle
+
+[520000] GOAL_Mukade520000_Battle
+
+[7160] GOAL_m13_02_VNPC_Doragon7160_Battle
+
+[529000] GOAL_WhiteDragon_Seath529000_Battle
+
+[10009] GOAL_HusiHeavy_Spear010009_Battle
+
+[529001] GOAL_WD_Seath_Muteki529001_Battle
+
+[334000] GOAL_blackDog334000_Battle
+
+[7170] GOAL_m14_00_VNPC_Hourou7170_Battle
+
+[290001] GOAL_Skeleton_Bow290001_Battle
+
+[2019] GOAL_COMMON_MoveToSomewhere
+
+[120101] GOAL_SmallInunezumi120101_Battle
+
+[120200] GOAL_BigInunezumi120200_Battle
+
+[7180] GOAL_m14_01_VNPC_Jujutsu7180_Battle
+
+[523100] GOAL_KingIzalis_Second523100_Battle
+
+[6020] GOAL_Knight_Ostra6020_Battle
+
+[120100] GOAL_SmallInunezumi120100_Battle
+
+[241003] GOAL_WhiteKnight_Spear241003_Battle
+
+[7190] GOAL_m15_00_VNPC_Senshi7190_Battle
+
+[257000] GOAL_HeavyKnight_Sword257000_Battle
+
+[243000] GOAL_MovingStatue243000_Battle
+
+[228001] GOAL_KinokoChild_m12_228001_Battle
+
+[6510] LOGIC_ID_BlackIron_Knight6510
+
+[7200] GOAL_m15_01_VNPC_Kishi7200_Battle
+
+[6180] GOAL_Healer6180_Battle
+
+[254001] GOAL_HusiFight_Ax254001_Battle
+
+[254002] GOAL_HusiFight_FireBom254002_Battle
+
+[257001] GOAL_HeavyKnight_Mace257001_Battle
+
+[7210] GOAL_m16_00_VNPC_Sanzoku7210_Battle
+
+[20100] LOGIC_ID_ObjAction20100
+
+[225000] GOAL_Hammer_m10_225000_Battle
+
+[540000] GOAL_Boss_Izalis540000_Battle
+
+[350100] GOAL_Wisp350100_Battle
+
+[7220] GOAL_m17_00_VNPC_Majutsu7220_Battle
+
+[254003] GOAL_HusiFight_Sword_m11_254003_Battle
+
+[254004] GOAL_HusiFight_FireBom_eve254004_Battle
+
+[254000] GOAL_HusiFight_Sword254000_Battle
+
+[206002] GOAL_Ghoul_Human206002_Battle
+
+[225001] GOAL_Hammer_m11_225001_Battle
+
+[228000] GOAL_KinokoChild228000_Battle
+
+[450000] GOAL_TheAbyss450000_Battle
+
+[256001] GOAL_LightKnight_Bow256001_Battle
+
+[264000] GOAL_KajiyaAndre264000_Battle
+
+[7240] GOAL_m18_01_VNPC_Motazaru7240_Battle
+
+[6220] GOAL_Blacksmith_Rickelt6220_Battle
+
+[1540] LOGIC_ID_Wataa1540
+
+[225002] GOAL_Hammer225002_Battle
+
+[270001] GOAL_HebibitoB_shot270001_Battle
+
+[528000] GOAL_CragSpider528000_Battle
+
+[15000] GOAL_DS2AutoTest15000_Battle
+
+[2051] GOAL_COMMON_Landing
+    No Interupt: True
+    No Update: True
+
+[10001] LOGIC_ID_Common_DoObjAct10001
+
+[322000] GOAL_Kisei322000_Battle
+
+[251000] GOAL_HusibitoKojiki251000_Battle
+
+[352003] GOAL_wyvern_on_earth352003_Battle
+
+[351000] GOAL_BigCrow351000_Battle
+
+[2053] GOAL_COMMON_Landing_Landing
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[290002] GOAL_Sk_Large_Falchion290002_Battle
+
+[230002] GOAL_HaikaiDemon_oujou230002_Battle
+
+[6250] GOAL_Frustrated_merchant6250_Battle
+
+[13000] GOAL_PGTest13000_Battle
+
+[409000] GOAL_SniperA409000_Battle
+
+[13008] GOAL_PGTest13008_Battle
+
+[10010] GOAL_HasigoTest10010_Battle
+
+[6260] GOAL_TrickStar6260_Battle
+
+[6000] GOAL_Knight_of_Sun6000_Battle
+
+[287000] GOAL_GiantKnight287000_Battle
+
+[2105] GOAL_COMMON_ContinueAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£y‚z
+        –½’†‚µ‚½‚ç¬Œ÷H
+        EzState”Ô†
+
+[12010] GOAL_NpcPlayerTest_Battle
+
+[6270] GOAL_Frustrated_Fighter6270_Battle
+
+[287001] GOAL_GiantKnight_low287001_Battle
+
+[11000] LOGIC_ID_Nanimosinai11000
+
+[345000] GOAL_Zazen345000_Battle
+
+[324000] GOAL_Izalis324000_Battle
+
+[6280] GOAL_OnionKnight6280_Battle
+
+[539000] GOAL_Ja_yearl_demon539000_Battle
+
+[254005] GOAL_HusiFight_Sword_eve254005_Battle
+
+[10002] LOGIC_ID_Husi_Runaway10002
+
+[10006] GOAL_Test10006_Battle
+
+[6801] GOAL_BanditA6801_Battle
+
+[6803] GOAL_BanditC6803_Battle
+
+[6805] GOAL_BanditE6805_Battle
+
+[7111] GOAL_m10_01_VNPC_Touzoku7111_Battle
+
+[281000] GOAL_HusiBan281000_Battle
+
+[6300] GOAL_HeldKnight_laughtrec6300_Battle
+
+[255006] GOAL_HusiHeavy_Bow_only255006_Battle
+
+[342000] GOAL_DragonZombi342000_Battle
+
+[500] GOAL_HusiHeavy_Spear000500_Battle
+
+[342100] GOAL_DraZonbiLegs342100_Battle
+
+[339000] GOAL_Burrower339000_Battle
+
+[268000] GOAL_Ghost_Female268000_Battle
+
+[2000] GOAL_COMMON_Wait
+
+[527000] GOAL_Griffith527000_Battle
+
+[339001] GOAL_Burrower_A339001_Battle
+
+[6320] GOAL_CowardInGraveyard_Patch6320_Battle
+
+[6290] GOAL_Daughter_of_OnionKnight6290_Battle
+
+[283000] GOAL_HusiPhalanx283000_Battle
+
+[339002] GOAL_Burrower_B339002_Battle
+
+[522000] GOAL_Hakaoh522000_Battle
+
+[6590] LOGIC_ID_HeldKnight_laughtrec6590
+
+[275000] GOAL_Gray_HolyWoman275000_Battle
+
+[339003] GOAL_Burrower_C339003_Battle
+
+[2109] GOAL_COMMON_DashAttack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        UŒ‚ŠJn‹——£ymz
+        UŒ‚EzState”Ô†
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[533001] GOAL_YamiNadeCURSE533001_Battle
+
+[6340] GOAL_YamiNadeCURSE6320_Battle
+
+[2001] GOAL_COMMON_Turn
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+    Parameter Names:
+        ³–Ê”»’èŠp“x
+        ù‰ñƒ^[ƒQƒbƒg
+
+[333000] GOAL_Pisaca333000_Battle
+
+[536000] GOAL_LargeCat536000_Battle
+
+[290003] GOAL_Sk_Fal_non_screw290003_Battle
+
+[6350] GOAL_Painter_Eraymiath6350_Battle
+
+[333001] GOAL_Pisaca_Sisters333001_Battle
+
+[251001] GOAL_KojikiShouninA251001_Battle
+
+[2100] GOAL_COMMON_Attack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[6920] GOAL_SHOUNIN6920_Battle
+
+[279000] GOAL_BlackKnight_Sword279000_Battle
+
+[349002] GOAL_DriftItemGood349000_Hide
+    No Interupt: True
+    No Update: True
+
+[259100] GOAL_koushi_Anger259100_Battle
+
+[269000] GOAL_HebibitoA269000_Battle
+
+[13004] GOAL_PGTest13004_Battle
+
+[6370] GOAL_DragonOracle6370_Battle
+
+[349100] GOAL_DriftItemEvil349100_Battle
+
+[239000] GOAL_Darkwraith239000_Battle
+
+[6271] GOAL_Frustrated_FighterH6271_Battle
+
+[327000] GOAL_basilisk327000_Battle
+
+[346000] GOAL_ArmoredTask346000_Battle
+
+[2021] GOAL_COMMON_Fall
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        —‰ºŠJnEzState”Ô†
+        —‰º’â~EzState”Ô†
+        —‰º’â~ƒ}[ƒWƒ“[m]
+        ƒ^[ƒQƒbƒgyTypez
+
+[514000] GOAL_DragonTEST514000_Battle
+
+[270000] GOAL_HebibitoB270000_Battle
+
+[0] LOGIC_ID_Default
+
+[6390] GOAL_Laughtrec_Helper6390_Battle
+
+[329000] GOAL_Ohmushi329000_Battle
+
+[10008] GOAL_Test10008_Battle
+
+[241002] GOAL_WhiteKnight_Ax241002_Battle
+
+[415000] LOGIC_ID_ShinenBito415000
+
+[412000] GOAL_Kyu_DoguKishi412000_Battle
+
+[332000] GOAL_ThreeHaori332000_Battle
+
+[526000] GOAL_Donsyoku526000_Battle
+
+[292000] GOAL_HonebutoSk_Kouhu292000_Battle
+
+[236000] GOAL_FourKnightC236000_Battle
+
+[241004] GOAL_WhiteKnight_Bow241004_Battle
+
+[321000] GOAL_Tamago321000_Battle
+
+[292001] GOAL_HonebutoSk_Senshi292001_Battle
+
+[334100] GOAL_FlameDog334100_Battle
+
+[350000] GOAL_Bigjelly350000_Battle
+
+[6420] GOAL_Ninja6420_Battle
+
+[6170] GOAL_Roaming_Chaos6170_Battle
+
+[236001] GOAL_FourKnightC_Thunder236001_Battle
+
+[337000] GOAL_Kinobori337000_Battle
+
+[6450] GOAL_Falcon_girl6450_Battle
+
+[2055] GOAL_COMMON_LadderAct
+    No Interupt: True
+
+[120300] GOAL_SnowInunezumi120300_Battle
+
+[2017] GOAL_COMMON_SidewayMove
+
+[338000] GOAL_Leech338000_Battle
+
+[206001] GOAL_Ghoul_Spear206001_Battle
+
+[286000] GOAL_Giant286000_Battle
+
+[233000] GOAL_Jujin233000_Battle
+
+[295000] GOAL_Skeleton_Beast295000_Battle
+
+[417200] GOAL_HumanityL417200_Battle
+
+[286001] GOAL_Giant_nt286001_Battle
+
+[1000] GOAL_COMMON_If
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 1
+    No Interupt: True
+    Parameter Names:
+        ¯•Ê—pƒR[ƒhNo
+
+[223100] GOAL_SnowDemon223100_Battle
+
+[524000] GOAL_PrinceIzalis524000_Battle
+
+[120000] GOAL_Inunezumi120000_Battle
+
+[537000] GOAL_FirewoodKing537000_Battle
+
+[9999] GOAL_COMMON_Template
+
+[2002] GOAL_COMMON_TurnAround
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        ‘ÎÛ‚Ì•ûŒüyTypez
+        Šp“xy“xz
+        •à‚­?
+        õ–½‚Å¬Œ÷H
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[201000] GOAL_IppanLONG201000_Battle
+
+[7100] GOAL_m10_00_VNPC_Senshi7100_Battle
+
+[2108] GOAL_COMMON_UseItem
+    No Interupt: True
+    No Update: True
+
+[6551] GOAL_TempleKnight_Enemy6551_Battle
+
+[6310] GOAL_Nobushi6310_Battle
+
+[280000] GOAL_HusiCrystal_Sword280000_Battle
+
+[230000] GOAL_HaikaiDemon230000_Battle
+
+[14001] GOAL_DS2PGTest14001_Battle
+
+[309000] GOAL_Ooka309000_Battle
+
+[280001] GOAL_HusiCrystal_Bow280001_Battle
+
+[226000] GOAL_SpearDemon226000_Battle
+
+[15001] GOAL_DS2AutoTest15001_Battle
+
+[13005] GOAL_PGTest13005_Battle
+
+[6490] GOAL_Attendant_of_laughtrecA6490_Battle
+
+[525000] GOAL_Tadare525000_Battle
+
+[417100] GOAL_HumanityM417100_Battle
+
+[2253] GOAL_COMMON_ComboTunable_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[253001] GOAL_HusiMino_Poison253001_Battle
+
+[6500] GOAL_Attendant_of_laughtrecB6500_Battle
+
+[6030] GOAL_BigHat_Logarn6030_Battle
+
+[293000] GOAL_Syarin293000_Battle
+
+[3001] GOAL_KAMISAMA_Teleport
+
+[13001] GOAL_PGTest13001_Battle
+
+[227000] GOAL_Kinoko227000_Battle
+
+[13009] GOAL_PGTest13009_Battle
+
+[2015] GOAL_COMMON_ApproachTarget
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        “’B”»’è‹——£
+        ù‰ñ‘ÎÛ
+        •à‚­?
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛ
+
+[250000] GOAL_Husi250000_Battle
+
+[2016] GOAL_COMMON_LeaveTarget
+
+[6520] LOGIC_ID_Witch6520
+
+[256000] GOAL_LightKnight_Sword256000_Battle
+
+[296000] GOAL_totem296000_Battle
+
+[2018] GOAL_COMMON_KeepDist
+
+[332001] GOAL_ThreeHaoriBunsin332001_Battle
+
+[6530] GOAL_PondAunt6530_Battle
+
+[807000] GOAL_Ouji_807000_Battle
+
+[2020] GOAL_COMMON_SpinStep
+
+[332002] GOAL_ThreeHaori_nomal332002_Battle
+
+[419000] GOAL_BlackDragonsDog419000_Battle
+
+[6540] GOAL_SunKnight6540_Battle
+
+[2022] GOAL_COMMON_MoveToMovePointAir
+
+[224000] GOAL_Nata224000_Battle
+
+[1541] LOGIC_ID_Wataa1541
+
+
+
+
+
+GOAL_COMMON_NonBattleAct
+    “G‚¢‚½‚çI—¹H
+    ‘–‚éH
+    ù‰ñyTYPEz
+    ‘ƒ‚Ì“’…‹——£ymz
+    ‘Ò‹@ƒS[ƒ‹
+GOAL_COMMON_ApproachSettingDirection
+    “’B”»’è‹——£
+    ù‰ñ‘ÎÛ
+    •à‚­?
+    ƒK[ƒhEzState”Ô†
+    ˆÚ“®•ûŒü
+    w’è•ûŒü‚Ö‚Ì‹——£
+GOAL_COMMON_ComboAttack
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_GuardBreakAttack
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_NonspinningAttack
+    UŒ‚‘ÎÛyTypez
+    ¬Œ÷‹——£yTypez
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_DashAttack_Attack
+    UŒ‚EzState”Ô†
+GOAL_COMMON_SpecialTurn
+    UŒ‚‘ÎÛyTypez
+    ù‰ñŠp“x
+GOAL_COMMON_ComboRepeat
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_ComboFinal
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_AttackTunableSpin
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    UŒ‚‘Où‰ñŠÔ
+    ³–Ê”»’èŠp“x
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_ComboAttackTunableSpin
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    UŒ‚‘Où‰ñŠÔy•bz
+    ³–Ê”»’èŠp“xy“xz
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_ComboAttack_SuccessAngle180
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_ComboRepeat_SuccessAngle180
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_Pursuit
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_NonspinningComboAttack
+    UŒ‚‘ÎÛyTypez
+    ¬Œ÷‹——£yTypez
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_NonspinningComboRepeat
+    UŒ‚‘ÎÛyTypez
+    ¬Œ÷‹——£yTypez
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_NonspinningComboFinal
+    UŒ‚‘ÎÛyTypez
+    ¬Œ÷‹——£yTypez
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_GuardBreakTunable
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    UŒ‚‘Où‰ñŠÔy•bz
+    ³–Ê”»’èŠp“xy“xz
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_ContinueAttack
+    UŒ‚‘ÎÛyTypez
+    ¬Œ÷‹——£y‚z
+    –½’†‚µ‚½‚ç¬Œ÷H
+GOAL_COMMON_DashAttack
+    UŒ‚ŠJn‹——£ymz
+    UŒ‚EzState”Ô†
+    ƒK[ƒhEzState”Ô†
+GOAL_COMMON_Turn
+    ³–Ê”»’èŠp“x
+GOAL_COMMON_Attack
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_Fall
+    —‰ºŠJnEzState”Ô†
+    —‰º’â~EzState”Ô†
+    —‰º’â~ƒ}[ƒWƒ“[m]
+GOAL_COMMON_If
+    ¯•Ê—pƒR[ƒhNo
+GOAL_COMMON_TurnAround
+    ‘ÎÛ‚Ì•ûŒüyTypez
+    Šp“xy“xz
+    •à‚­?
+    õ–½‚Å¬Œ÷H
+    ƒK[ƒhEzState”Ô†
+GOAL_COMMON_ComboTunable_SuccessAngle180
+    UŒ‚‘ÎÛ
+    ¬Œ÷‹——£
+    UŒ‚‘Où‰ñŠÔy•bz
+    ³–Ê”»’èŠp“xy“xz
+    ãUŒ‚Šp“x
+    ‰ºUŒ‚Šp“x
+GOAL_COMMON_ApproachTarget
+    “’B”»’è‹——£
+    ù‰ñ‘ÎÛ
+    •à‚­?
+    ƒK[ƒhEzState”Ô†
+[1] GOAL_COMMON_Normal
+
+[2] GOAL_COMMON_Stay
+
+[3] GOAL_COMMON_WalkAround
+
+[4] GOAL_COMMON_BackToHome
+
+[10011] GOAL_GuardTest_010011_Battle
+
+[6550] GOAL_TempleKnight6550_Battle
+
+[256002] GOAL_LightKnight_Rapier256002_Battle
+
+[253000] GOAL_HusiMino_Kon253000_Battle
+
+[6560] GOAL_StingKnight6560_Battle
+
+[6051] GOAL_SanzA6051_Battle
+
+[6570] GOAL_YellowMantle6570_Battle
+
+[413000] GOAL_Kyu_Jujin413000_Battle
+
+[5] GOAL_COMMON_NonBattleAct
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    Parameter Names:
+        “G‚¢‚½‚çI—¹H
+        ‘–‚éH
+        ù‰ñyTYPEz
+        ‘ƒ‚Ì“’…‹——£ymz
+        ‘Ò‹@ƒS[ƒ‹
+        “G‚É”½‰‚·‚é‹——£ymz
+
+[221000] GOAL_Bourei221000_Battle
+
+[6580] GOAL_Habel6580_Battle
+
+[291000] GOAL_BigSk_Sword291000_Battle
+
+[320000] GOAL_Funiku320000_Battle
+
+[291001] GOAL_BigSk_Bow291001_Battle
+
+[349000] GOAL_DriftItemGood349000_Battle
+
+[6600] GOAL_Licarl6600_Battle
+
+[349001] GOAL_DriftItemGood349000_Runaway
+    No Interupt: True
+
+[250001] GOAL_Husi_Torch250001_Battle
+
+[6610] GOAL_CrystalKnight6610_Battle
+
+[6620] GOAL_Sister_of_Kuragu6620_Battle
+
+[250002] GOAL_Husi_m11_250002_Battle
+
+[343000] GOAL_Hellkite343000_Battle
+
+[523000] GOAL_KingIzalis523000_Battle
+
+[535000] GOAL_Gargoyle535000_Battle
+
+[250003] GOAL_Husi_Torch250003_Battle
+
+[6640] GOAL_DarkMoon_Juu6640_Battle
+
+[2050] GOAL_COMMON_LiftOff
+    No Interupt: True
+
+[6650] GOAL_DarkMoon_Kei6650_Battle
+
+[2052] GOAL_COMMON_Landing_Move
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[250004] GOAL_Husi250004_Battle
+
+[2054] GOAL_COMMON_ComeDown
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[279001] GOAL_BlackKnight_Lar_Sw279001_Battle
+
+[2056] GOAL_COMMON_DoorAct
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.3
+    No Interupt: True
+
+[2057] GOAL_COMMON_KeepDistYAxis
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.6
+    No Interupt: True
+
+[279002] GOAL_BlackKnight_Ax279002_Battle
+
+[2060] GOAL_COMMON_ApproachSettingDirection
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        “’B”»’è‹——£
+        ù‰ñ‘ÎÛ
+        •à‚­?
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®•ûŒü
+        w’è•ûŒü‚Ö‚Ì‹——£
+        ˆÚ“®‘ÎÛ
+
+[250005] GOAL_Husi_Bow250005_Battle
+
+[279003] GOAL_BlackKnight_Spear279003_Battle
+
+[20000] LOGIC_ID_Hitugi20000
+
+[273000] GOAL_Heroine273000_Battle
+
+[241000] GOAL_WhiteKnight_Sword241000_Battle
+
+[1550] LOGIC_ID_AutoTest1550
+
+[1551] LOGIC_ID_AutoTest1551
+
+[241001] GOAL_WhiteKnight_Lar_Sw241001_Battle
+
+[418000] GOAL_Chainman418000_Battle
+
+[527100] GOAL_Griffith_large527100_Battle
+
+[267000] LOGIC_ID_Ghost_Runaway267000
+
+[347100] GOAL_GoldenChimera347100_Battle
+
+[238000] GOAL_ClayDoll238000_Battle
+
+[325000] GOAL_IzalisQueen325000_Battle
+
+[347101] GOAL_GoldenChimera347101_Battle
+
+[6740] GOAL_Kiaran6740_Battle
+
+[206000] GOAL_Ghoul_Sword206000_Battle
+
+[2101] GOAL_COMMON_Guard
+
+[2102] GOAL_COMMON_ComboAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2103] GOAL_COMMON_GuardBreakAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2104] GOAL_COMMON_NonspinningAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[290000] GOAL_Skeleton_Falchion290000_Battle
+
+[2107] GOAL_COMMON_ApproachStep
+
+[13002] GOAL_PGTest13002_Battle
+
+[13006] GOAL_PGTest13006_Battle
+
+[2110] GOAL_COMMON_DashAttack_Attack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        UŒ‚EzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[348000] GOAL_Taiyoutyuu347000_Battle
+
+[2113] GOAL_COMMON_Parry
+
+[2114] GOAL_COMMON_SpecialTurn
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ù‰ñŠp“x
+        EzState”Ô†
+
+[2115] GOAL_COMMON_ObjActTest
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.6
+    No Interupt: True
+
+[2116] GOAL_COMMON_TeamCallHelp
+    No Interupt: True
+
+[2117] GOAL_COMMON_TeamReplyHelp
+    No Interupt: True
+
+[290004] GOAL_Sk_LarFal_non_scr290004_Battle
+
+[284000] GOAL_HusiCongestion_Torch284000_Battle
+
+[232000] GOAL_IronGolem232000_Battle
+
+[10000] LOGIC_ID_Common10000
+
+[10004] GOAL_Test10004_Battle
+
+[284001] GOAL_HusiCongestion_Hand284001_Battle
+
+[6802] GOAL_BanditB6802_Battle
+
+[6804] GOAL_BanditD6804_Battle
+
+[6806] GOAL_BanditF6806_Battle
+
+[533000] GOAL_Searcher533000_Battle
+
+[342001] GOAL_WalkingDraZonbi342001_Battle
+
+[271100] GOAL_CrystalAmber271100_Battle
+
+[533002] GOAL_Searcher_of_King533002_Battle
+
+[342002] GOAL_DragonZombi_m16_342002_Battle
+
+[278000] GOAL_Mimic278000_Battle
+
+[229000] GOAL_Kusaridama229000_Battle
+
+[10100] LOGIC_ID_Gitai10100
+
+[452000] GOAL_HolySwordWolf452000_Battle
+
+[330000] GOAL_CrystalLizard330000_Battle
+
+[255000] GOAL_HusiHeavy_Spear255000_Battle
+
+[330001] GOAL_CrystalLizard330000_Runaway
+    No Interupt: True
+
+[330002] GOAL_CrystalLizard330000_Hide
+    No Interupt: True
+    No Update: True
+
+[417000] GOAL_HumanityS417000_Battle
+
+[266000] GOAL_Husi_Chef266000_Battle
+
+[223000] GOAL_GreaterDemon223000_Battle
+
+[532000] GOAL_ImperialMother532000_Battle
+
+[346100] GOAL_ArmoredTask_BackGuard346100_Battle
+
+[200] GOAL_AItest000200_Battle
+
+[255002] GOAL_HusiHeavy_Bow255002_Battle
+
+[252000] GOAL_Husi_robber252000_Battle
+
+[6910] GOAL_FUSHI6910_Battle
+
+[353000] GOAL_LakeBeast353000_Battle
+
+[353001] GOAL_LakeBeast_m12_353001_Battle
+
+[255003] GOAL_HusiHeavy_Bow255003_Battle
+
+[411000] GOAL_Go_HawkEye411000_Battle
+
+[520100] GOAL_MukadeUde520100_Battle
+
+[347000] GOAL_GoldenChimera347000_Battle
+
+[2200] GOAL_COMMON_CommonAttack
+
+[2210] GOAL_COMMON_ComboRepeat
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2211] GOAL_COMMON_ComboFinal
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[283001] GOAL_HusiPhalanx283001_Battle
+
+[341000] GOAL_Kaeruei341000_Battle
+
+[521000] GOAL_HolySwordWolf521000_Battle
+
+[2220] GOAL_COMMON_AttackTunableSpin
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔ
+        ³–Ê”»’èŠp“x
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2221] GOAL_COMMON_ComboAttackTunableSpin
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2230] GOAL_COMMON_ComboAttack_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[2231] GOAL_COMMON_ComboRepeat_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[335000] GOAL_WalkingTree335000_Battle
+
+[13003] GOAL_PGTest13003_Battle
+
+[13007] GOAL_PGTest13007_Battle
+
+[2240] GOAL_COMMON_Pursuit
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[223200] GOAL_MiniGreaterDemon223200_Battle
+
+[6010] GOAL_DarkMoonKnight6010_Battle
+
+[535100] GOAL_Gargoyle_m15_535100_Battle
+
+[271000] GOAL_Crystal271000_Battle
+
+[451000] GOAL_BlackDragon451000_Battle
+
+[6531] GOAL_PondAunt_Enemy6531_Battle
+
+[240000] GOAL_Assassin240000_Battle
+
+[2250] GOAL_COMMON_NonspinningComboAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[2251] GOAL_COMMON_NonspinningComboRepeat
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[2252] GOAL_COMMON_NonspinningComboFinal
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£yTypez
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzState”Ô†
+
+[10005] GOAL_DS2Test10005_Battle
+
+[2254] GOAL_COMMON_GuardBreakTunable
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[240001] GOAL_Assassin_shot240001_Battle
+
+[6040] GOAL_Pupil_of_Logarn6040_Battle
+
+[416000] GOAL_ShinenBito_Sorcerer416000_Battle
+
+[265000] GOAL_Husi_Haka265000_Battle
+
+[6050] GOAL_Stateless_princess6050_Battle
+
+[530000] GOAL_Hushiou_Ja_yearl530000_Battle
+
+[294000] GOAL_Skeleton_baby294000_Battle
+
+[237000] GOAL_FourKnightD237000_Battle
+
+[323000] GOAL_Kagerou323000_Battle
+
+[120001] GOAL_KingInunezumi120001_Battle
+
+[352000] GOAL_wyvern352000_Battle
+
+[323001] GOAL_Kagerou_m17_323001_Battle
+
+[6070] GOAL_White_HolyWoman6070_Battle
+
+[237001] GOAL_FourKnightD_m17_237001_Battle
+
+[352001] GOAL_wyvern352001_Battle
+
+[281100] GOAL_HusiBanIwa281100_Battle
+
+[410000] GOAL_Artorius410000_Battle
+
+[6080] GOAL_Knight_of_HolyWomanA6080_Battle
+
+[352002] GOAL_wyvern_on_earth352002_Battle
+
+[7110] GOAL_m10_01_VNPC_Tohzoku7110_Battle
+
+[6090] GOAL_Knight_of_HolyWomanB6090_Battle
+
+[120002] GOAL_Inunezumi120002_Battle
+
+[255001] GOAL_HusiHeavy_Long255001_Battle
+
+[7120] GOAL_m11_00_VNPC_Hourou7120_Battle
+
+[6100] GOAL_Knight_of_HolyWomanC6100_Battle
+
+[6511] GOAL_BlackIron_Knight_Enemy6511_Battle
+
+[253002] GOAL_HusiMino_Gun253002_Battle
+
+[352005] GOAL_wyvern352005_Battle
+
+[7130] GOAL_m12_00_VNPC_Kariudo7130_Battle
+
+[30000] GOAL_Common_Leave_Target30000_Battle
+
+[253100] GOAL_HusiMino_Rock253100_Battle
+
+[14000] GOAL_DS2PGTest14000_Battle
+
+[7131] GOAL_m12_00_VNPC_Kariudo7131_Battle
+
+[7140] GOAL_m13_00_VNPC_Seishoku7140_Battle
+
+[6052] GOAL_SanzB6052_Battle
+
+[282000] GOAL_HusiKuragu282000_Battle
+
+[231000] GOAL_Kyochojin231000_Battle
+
+[7230] GOAL_m18_00_VNPC_Motazaru7230_Battle
+
+[7150] GOAL_m13_01_VNPC_Seishoku7150_Battle
+
+[6130] GOAL_Magician_of_Pot6130_Battle
+
+[520200] GOAL_MukadeSippo520200_Battle
+
+[340000] GOAL_KuraguSpider_Child340000_Battle
+
+[520000] GOAL_Mukade520000_Battle
+
+[7160] GOAL_m13_02_VNPC_Doragon7160_Battle
+
+[529000] GOAL_WhiteDragon_Seath529000_Battle
+
+[10009] GOAL_HusiHeavy_Spear010009_Battle
+
+[529001] GOAL_WD_Seath_Muteki529001_Battle
+
+[334000] GOAL_blackDog334000_Battle
+
+[7170] GOAL_m14_00_VNPC_Hourou7170_Battle
+
+[290001] GOAL_Skeleton_Bow290001_Battle
+
+[2019] GOAL_COMMON_MoveToSomewhere
+
+[120101] GOAL_SmallInunezumi120101_Battle
+
+[120200] GOAL_BigInunezumi120200_Battle
+
+[7180] GOAL_m14_01_VNPC_Jujutsu7180_Battle
+
+[523100] GOAL_KingIzalis_Second523100_Battle
+
+[6020] GOAL_Knight_Ostra6020_Battle
+
+[120100] GOAL_SmallInunezumi120100_Battle
+
+[241003] GOAL_WhiteKnight_Spear241003_Battle
+
+[7190] GOAL_m15_00_VNPC_Senshi7190_Battle
+
+[257000] GOAL_HeavyKnight_Sword257000_Battle
+
+[243000] GOAL_MovingStatue243000_Battle
+
+[228001] GOAL_KinokoChild_m12_228001_Battle
+
+[6510] LOGIC_ID_BlackIron_Knight6510
+
+[7200] GOAL_m15_01_VNPC_Kishi7200_Battle
+
+[6180] GOAL_Healer6180_Battle
+
+[254001] GOAL_HusiFight_Ax254001_Battle
+
+[254002] GOAL_HusiFight_FireBom254002_Battle
+
+[257001] GOAL_HeavyKnight_Mace257001_Battle
+
+[7210] GOAL_m16_00_VNPC_Sanzoku7210_Battle
+
+[20100] LOGIC_ID_ObjAction20100
+
+[225000] GOAL_Hammer_m10_225000_Battle
+
+[540000] GOAL_Boss_Izalis540000_Battle
+
+[350100] GOAL_Wisp350100_Battle
+
+[7220] GOAL_m17_00_VNPC_Majutsu7220_Battle
+
+[254003] GOAL_HusiFight_Sword_m11_254003_Battle
+
+[254004] GOAL_HusiFight_FireBom_eve254004_Battle
+
+[254000] GOAL_HusiFight_Sword254000_Battle
+
+[206002] GOAL_Ghoul_Human206002_Battle
+
+[225001] GOAL_Hammer_m11_225001_Battle
+
+[228000] GOAL_KinokoChild228000_Battle
+
+[450000] GOAL_TheAbyss450000_Battle
+
+[256001] GOAL_LightKnight_Bow256001_Battle
+
+[264000] GOAL_KajiyaAndre264000_Battle
+
+[7240] GOAL_m18_01_VNPC_Motazaru7240_Battle
+
+[6220] GOAL_Blacksmith_Rickelt6220_Battle
+
+[1540] LOGIC_ID_Wataa1540
+
+[225002] GOAL_Hammer225002_Battle
+
+[270001] GOAL_HebibitoB_shot270001_Battle
+
+[528000] GOAL_CragSpider528000_Battle
+
+[15000] GOAL_DS2AutoTest15000_Battle
+
+[2051] GOAL_COMMON_Landing
+    No Interupt: True
+    No Update: True
+
+[10001] LOGIC_ID_Common_DoObjAct10001
+
+[322000] GOAL_Kisei322000_Battle
+
+[251000] GOAL_HusibitoKojiki251000_Battle
+
+[352003] GOAL_wyvern_on_earth352003_Battle
+
+[351000] GOAL_BigCrow351000_Battle
+
+[2053] GOAL_COMMON_Landing_Landing
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+
+[290002] GOAL_Sk_Large_Falchion290002_Battle
+
+[230002] GOAL_HaikaiDemon_oujou230002_Battle
+
+[6250] GOAL_Frustrated_merchant6250_Battle
+
+[13000] GOAL_PGTest13000_Battle
+
+[409000] GOAL_SniperA409000_Battle
+
+[13008] GOAL_PGTest13008_Battle
+
+[10010] GOAL_HasigoTest10010_Battle
+
+[6260] GOAL_TrickStar6260_Battle
+
+[6000] GOAL_Knight_of_Sun6000_Battle
+
+[287000] GOAL_GiantKnight287000_Battle
+
+[2105] GOAL_COMMON_ContinueAttack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛyTypez
+        ¬Œ÷‹——£y‚z
+        –½’†‚µ‚½‚ç¬Œ÷H
+        EzState”Ô†
+
+[12010] GOAL_NpcPlayerTest_Battle
+
+[6270] GOAL_Frustrated_Fighter6270_Battle
+
+[287001] GOAL_GiantKnight_low287001_Battle
+
+[11000] LOGIC_ID_Nanimosinai11000
+
+[345000] GOAL_Zazen345000_Battle
+
+[324000] GOAL_Izalis324000_Battle
+
+[6280] GOAL_OnionKnight6280_Battle
+
+[539000] GOAL_Ja_yearl_demon539000_Battle
+
+[254005] GOAL_HusiFight_Sword_eve254005_Battle
+
+[10002] LOGIC_ID_Husi_Runaway10002
+
+[10006] GOAL_Test10006_Battle
+
+[6801] GOAL_BanditA6801_Battle
+
+[6803] GOAL_BanditC6803_Battle
+
+[6805] GOAL_BanditE6805_Battle
+
+[7111] GOAL_m10_01_VNPC_Touzoku7111_Battle
+
+[281000] GOAL_HusiBan281000_Battle
+
+[6300] GOAL_HeldKnight_laughtrec6300_Battle
+
+[255006] GOAL_HusiHeavy_Bow_only255006_Battle
+
+[342000] GOAL_DragonZombi342000_Battle
+
+[500] GOAL_HusiHeavy_Spear000500_Battle
+
+[342100] GOAL_DraZonbiLegs342100_Battle
+
+[339000] GOAL_Burrower339000_Battle
+
+[268000] GOAL_Ghost_Female268000_Battle
+
+[2000] GOAL_COMMON_Wait
+
+[527000] GOAL_Griffith527000_Battle
+
+[339001] GOAL_Burrower_A339001_Battle
+
+[6320] GOAL_CowardInGraveyard_Patch6320_Battle
+
+[6290] GOAL_Daughter_of_OnionKnight6290_Battle
+
+[283000] GOAL_HusiPhalanx283000_Battle
+
+[339002] GOAL_Burrower_B339002_Battle
+
+[522000] GOAL_Hakaoh522000_Battle
+
+[6590] LOGIC_ID_HeldKnight_laughtrec6590
+
+[275000] GOAL_Gray_HolyWoman275000_Battle
+
+[339003] GOAL_Burrower_C339003_Battle
+
+[2109] GOAL_COMMON_DashAttack
+    No Interupt: True
+    No Update: True
+    Parameter Names:
+        UŒ‚ŠJn‹——£ymz
+        UŒ‚EzState”Ô†
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[533001] GOAL_YamiNadeCURSE533001_Battle
+
+[6340] GOAL_YamiNadeCURSE6320_Battle
+
+[2001] GOAL_COMMON_Turn
+    Activate() Interval (seconds): 0.2
+    Interupt() Interval (seconds): 0.5
+    No Interupt: True
+    Parameter Names:
+        ³–Ê”»’èŠp“x
+        ù‰ñƒ^[ƒQƒbƒg
+
+[333000] GOAL_Pisaca333000_Battle
+
+[536000] GOAL_LargeCat536000_Battle
+
+[290003] GOAL_Sk_Fal_non_screw290003_Battle
+
+[6350] GOAL_Painter_Eraymiath6350_Battle
+
+[333001] GOAL_Pisaca_Sisters333001_Battle
+
+[251001] GOAL_KojikiShouninA251001_Battle
+
+[2100] GOAL_COMMON_Attack
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[6920] GOAL_SHOUNIN6920_Battle
+
+[279000] GOAL_BlackKnight_Sword279000_Battle
+
+[349002] GOAL_DriftItemGood349000_Hide
+    No Interupt: True
+    No Update: True
+
+[259100] GOAL_koushi_Anger259100_Battle
+
+[269000] GOAL_HebibitoA269000_Battle
+
+[13004] GOAL_PGTest13004_Battle
+
+[6370] GOAL_DragonOracle6370_Battle
+
+[349100] GOAL_DriftItemEvil349100_Battle
+
+[239000] GOAL_Darkwraith239000_Battle
+
+[6271] GOAL_Frustrated_FighterH6271_Battle
+
+[327000] GOAL_basilisk327000_Battle
+
+[346000] GOAL_ArmoredTask346000_Battle
+
+[2021] GOAL_COMMON_Fall
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        —‰ºŠJnEzState”Ô†
+        —‰º’â~EzState”Ô†
+        —‰º’â~ƒ}[ƒWƒ“[m]
+        ƒ^[ƒQƒbƒgyTypez
+
+[514000] GOAL_DragonTEST514000_Battle
+
+[270000] GOAL_HebibitoB270000_Battle
+
+[0] LOGIC_ID_Default
+
+[6390] GOAL_Laughtrec_Helper6390_Battle
+
+[329000] GOAL_Ohmushi329000_Battle
+
+[10008] GOAL_Test10008_Battle
+
+[241002] GOAL_WhiteKnight_Ax241002_Battle
+
+[415000] LOGIC_ID_ShinenBito415000
+
+[412000] GOAL_Kyu_DoguKishi412000_Battle
+
+[332000] GOAL_ThreeHaori332000_Battle
+
+[526000] GOAL_Donsyoku526000_Battle
+
+[292000] GOAL_HonebutoSk_Kouhu292000_Battle
+
+[236000] GOAL_FourKnightC236000_Battle
+
+[241004] GOAL_WhiteKnight_Bow241004_Battle
+
+[321000] GOAL_Tamago321000_Battle
+
+[292001] GOAL_HonebutoSk_Senshi292001_Battle
+
+[334100] GOAL_FlameDog334100_Battle
+
+[350000] GOAL_Bigjelly350000_Battle
+
+[6420] GOAL_Ninja6420_Battle
+
+[6170] GOAL_Roaming_Chaos6170_Battle
+
+[236001] GOAL_FourKnightC_Thunder236001_Battle
+
+[337000] GOAL_Kinobori337000_Battle
+
+[6450] GOAL_Falcon_girl6450_Battle
+
+[2055] GOAL_COMMON_LadderAct
+    No Interupt: True
+
+[120300] GOAL_SnowInunezumi120300_Battle
+
+[2017] GOAL_COMMON_SidewayMove
+
+[338000] GOAL_Leech338000_Battle
+
+[206001] GOAL_Ghoul_Spear206001_Battle
+
+[286000] GOAL_Giant286000_Battle
+
+[233000] GOAL_Jujin233000_Battle
+
+[295000] GOAL_Skeleton_Beast295000_Battle
+
+[417200] GOAL_HumanityL417200_Battle
+
+[286001] GOAL_Giant_nt286001_Battle
+
+[1000] GOAL_COMMON_If
+    Activate() Interval (seconds): 0.5
+    Interupt() Interval (seconds): 1
+    No Interupt: True
+    Parameter Names:
+        ¯•Ê—pƒR[ƒhNo
+
+[223100] GOAL_SnowDemon223100_Battle
+
+[524000] GOAL_PrinceIzalis524000_Battle
+
+[120000] GOAL_Inunezumi120000_Battle
+
+[537000] GOAL_FirewoodKing537000_Battle
+
+[9999] GOAL_COMMON_Template
+
+[2002] GOAL_COMMON_TurnAround
+    Activate() Interval (seconds): 0.1
+    Interupt() Interval (seconds): 0.2
+    No Interupt: True
+    Parameter Names:
+        ‘ÎÛ‚Ì•ûŒüyTypez
+        Šp“xy“xz
+        •à‚­?
+        õ–½‚Å¬Œ÷H
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛyTypez
+
+[201000] GOAL_IppanLONG201000_Battle
+
+[7100] GOAL_m10_00_VNPC_Senshi7100_Battle
+
+[2108] GOAL_COMMON_UseItem
+    No Interupt: True
+    No Update: True
+
+[6551] GOAL_TempleKnight_Enemy6551_Battle
+
+[6310] GOAL_Nobushi6310_Battle
+
+[280000] GOAL_HusiCrystal_Sword280000_Battle
+
+[230000] GOAL_HaikaiDemon230000_Battle
+
+[14001] GOAL_DS2PGTest14001_Battle
+
+[309000] GOAL_Ooka309000_Battle
+
+[280001] GOAL_HusiCrystal_Bow280001_Battle
+
+[226000] GOAL_SpearDemon226000_Battle
+
+[15001] GOAL_DS2AutoTest15001_Battle
+
+[13005] GOAL_PGTest13005_Battle
+
+[6490] GOAL_Attendant_of_laughtrecA6490_Battle
+
+[525000] GOAL_Tadare525000_Battle
+
+[417100] GOAL_HumanityM417100_Battle
+
+[2253] GOAL_COMMON_ComboTunable_SuccessAngle180
+    No Interupt: True
+    Parameter Names:
+        UŒ‚‘ÎÛ
+        ¬Œ÷‹——£
+        UŒ‚‘Où‰ñŠÔy•bz
+        ³–Ê”»’èŠp“xy“xz
+        ãUŒ‚Šp“x
+        ‰ºUŒ‚Šp“x
+        EzStateID
+
+[253001] GOAL_HusiMino_Poison253001_Battle
+
+[6500] GOAL_Attendant_of_laughtrecB6500_Battle
+
+[6030] GOAL_BigHat_Logarn6030_Battle
+
+[293000] GOAL_Syarin293000_Battle
+
+[3001] GOAL_KAMISAMA_Teleport
+
+[13001] GOAL_PGTest13001_Battle
+
+[227000] GOAL_Kinoko227000_Battle
+
+[13009] GOAL_PGTest13009_Battle
+
+[2015] GOAL_COMMON_ApproachTarget
+    Activate() Interval (seconds): 0
+    Interupt() Interval (seconds): 0
+    No Interupt: True
+    Parameter Names:
+        “’B”»’è‹——£
+        ù‰ñ‘ÎÛ
+        •à‚­?
+        ƒK[ƒhEzState”Ô†
+        ˆÚ“®‘ÎÛ
+
+[250000] GOAL_Husi250000_Battle
+
+[2016] GOAL_COMMON_LeaveTarget
+
+[6520] LOGIC_ID_Witch6520
+
+[256000] GOAL_LightKnight_Sword256000_Battle
+
+[296000] GOAL_totem296000_Battle
+
+[2018] GOAL_COMMON_KeepDist
+
+[332001] GOAL_ThreeHaoriBunsin332001_Battle
+
+[6530] GOAL_PondAunt6530_Battle
+
+[807000] GOAL_Ouji_807000_Battle
+
+[2020] GOAL_COMMON_SpinStep
+
+[332002] GOAL_ThreeHaori_nomal332002_Battle
+
+[419000] GOAL_BlackDragonsDog419000_Battle
+
+[6540] GOAL_SunKnight6540_Battle
+
+[2022] GOAL_COMMON_MoveToMovePointAir
+
+[224000] GOAL_Nata224000_Battle
+
+[1541] LOGIC_ID_Wataa1541
+
+
+
+
+
+GOAL_COMMON_NonBattleAct
+“G‚¢‚½‚çI—¹H
+‘–‚éH
+ù‰ñyTYPEz
+‘ƒ‚Ì“’…‹——£ymz
+‘Ò‹@ƒS[ƒ‹
+
+GOAL_COMMON_ApproachSettingDirection
+“’B”»’è‹——£
+ù‰ñ‘ÎÛ
+•à‚­?
+ƒK[ƒhEzState”Ô†
+ˆÚ“®•ûŒü
+w’è•ûŒü‚Ö‚Ì‹——£
+
+GOAL_COMMON_ComboAttack
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_GuardBreakAttack
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_NonspinningAttack
+UŒ‚‘ÎÛyTypez
+¬Œ÷‹——£yTypez
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_DashAttack_Attack
+UŒ‚EzState”Ô†
+
+GOAL_COMMON_SpecialTurn
+UŒ‚‘ÎÛyTypez
+ù‰ñŠp“x
+
+GOAL_COMMON_ComboRepeat
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_ComboFinal
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_AttackTunableSpin
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+UŒ‚‘Où‰ñŠÔ
+³–Ê”»’èŠp“x
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_ComboAttackTunableSpin
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+UŒ‚‘Où‰ñŠÔy•bz
+³–Ê”»’èŠp“xy“xz
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_ComboAttack_SuccessAngle180
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_ComboRepeat_SuccessAngle180
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_Pursuit
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_NonspinningComboAttack
+UŒ‚‘ÎÛyTypez
+¬Œ÷‹——£yTypez
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_NonspinningComboRepeat
+UŒ‚‘ÎÛyTypez
+¬Œ÷‹——£yTypez
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_NonspinningComboFinal
+UŒ‚‘ÎÛyTypez
+¬Œ÷‹——£yTypez
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_GuardBreakTunable
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+UŒ‚‘Où‰ñŠÔy•bz
+³–Ê”»’èŠp“xy“xz
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_ContinueAttack
+UŒ‚‘ÎÛyTypez
+¬Œ÷‹——£y‚z
+–½’†‚µ‚½‚ç¬Œ÷H
+
+GOAL_COMMON_DashAttack
+UŒ‚ŠJn‹——£ymz
+UŒ‚EzState”Ô†
+ƒK[ƒhEzState”Ô†
+
+GOAL_COMMON_Turn
+³–Ê”»’èŠp“x
+
+GOAL_COMMON_Attack
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_Fall
+—‰ºŠJnEzState”Ô†
+—‰º’â~EzState”Ô†
+—‰º’â~ƒ}[ƒWƒ“[m]
+
+GOAL_COMMON_If
+¯•Ê—pƒR[ƒhNo
+
+GOAL_COMMON_TurnAround
+‘ÎÛ‚Ì•ûŒüyTypez
+Šp“xy“xz
+•à‚­?
+õ–½‚Å¬Œ÷H
+ƒK[ƒhEzState”Ô†
+
+GOAL_COMMON_ComboTunable_SuccessAngle180
+UŒ‚‘ÎÛ
+¬Œ÷‹——£
+UŒ‚‘Où‰ñŠÔy•bz
+³–Ê”»’èŠp“xy“xz
+ãUŒ‚Šp“x
+‰ºUŒ‚Šp“x
+
+GOAL_COMMON_ApproachTarget
+“’B”»’è‹——£
+ù‰ñ‘ÎÛ
+•à‚­?
+ƒK[ƒhEzState”Ô†
+
