@@ -1,2 +1,2 @@
-# DS-Lua-Util
-Dark Souls 1 lua script management utility
+# MeowScript
+Dark Souls 1 script inserter thing. Lets you insert AI scripts more easily.
