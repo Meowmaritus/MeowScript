@@ -22,13 +22,14 @@ namespace MeowScript_Build
                     Console.ReadKey(true);
                 }
             }
-            catch
+            catch (Exception e)
             {
+                Console.WriteLine(e.Message);
                 Console.WriteLine();
                 Console.WriteLine("Press any key to continue...");
                 Console.ReadKey(true);
             }
-            
+
         }
     }
 }

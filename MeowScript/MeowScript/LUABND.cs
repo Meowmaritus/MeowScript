@@ -253,11 +253,11 @@ namespace MeowScript
                 {
                     if (item.ID == 1000000)
                     {
-                        luabnd.GNL = item.ReadDataAs<LUAGNL>(null);
+                        luabnd.GNL = item.ReadDataAs<LUAGNL>();
                     }
                     else if (item.ID == 1000001)
                     {
-                        luabnd.INFO = item.ReadDataAs<LUAINFO>(null);
+                        luabnd.INFO = item.ReadDataAs<LUAINFO>();
                     }
                     else
                     {
