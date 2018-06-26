@@ -14,15 +14,11 @@ namespace MeowScript
 		{
 			get
 			{
-                return new FileInfo(Assembly.GetExecutingAssembly().Location).DirectoryName; 
-                
-                //Jebaited
-
-				//string codeBase = Assembly.GetExecutingAssembly().CodeBase;
-				//UriBuilder uri = new UriBuilder(codeBase);
-				//string path = Uri.UnescapeDataString(uri.Path);
-				//return Path.GetDirectoryName(path);
-			}
+                string codeBase = Assembly.GetExecutingAssembly().CodeBase;
+                UriBuilder uri = new UriBuilder(codeBase);
+                string path = Uri.UnescapeDataString(uri.Path);
+                return Path.GetDirectoryName(path);
+            }
 		}
 
 		public static string RemoveExtension(string filePath, string extension)

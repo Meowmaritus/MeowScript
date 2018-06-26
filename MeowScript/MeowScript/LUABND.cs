@@ -203,7 +203,7 @@ namespace MeowScript
                 newBnd.FilePath = newBnd.FilePath + ".dcx";
             }
 
-			int currentScriptID = 1000;
+			int currentScriptID = ID.ScriptListStart;
 			foreach (ScriptRef script in luabnd.Scripts)
 			{
 				newBnd.Entries.Add(new BNDEntry(currentScriptID++, Utils.Frankenpath(FRPG_AI_DIR, script.Name + ".lua"), null, script.Bytecode));
@@ -211,12 +211,12 @@ namespace MeowScript
 			if (luabnd.GNL != null)
 			{
 				string luagnlUri = Utils.Frankenpath(FRPG_SCRIPT_DIR, $"{luaBndName}.luagnl");
-				newBnd.Entries.Add(new BNDEntry(1000000, luagnlUri, null, DataFile.SaveAsBytes(luabnd.GNL, luagnlUri, null)));
+				newBnd.Entries.Add(new BNDEntry(ID.GNL, luagnlUri, null, DataFile.SaveAsBytes(luabnd.GNL, luagnlUri, null)));
 			}
 			if (luabnd.INFO != null)
 			{
 				string luainfoUri = Utils.Frankenpath(FRPG_SCRIPT_DIR, $"{luaBndName}.luainfo");
-				newBnd.Entries.Add(new BNDEntry(1000001, luainfoUri, null, DataFile.SaveAsBytes(luabnd.INFO, luainfoUri, null)));
+				newBnd.Entries.Add(new BNDEntry(ID.INFO, luainfoUri, null, DataFile.SaveAsBytes(luabnd.INFO, luainfoUri, null)));
 			}
 
             if (Commands.IsDarkSoulsRemastered)
@@ -251,11 +251,11 @@ namespace MeowScript
                 luabnd.Scripts.Clear();
                 foreach (BNDEntry item in bndFile)
                 {
-                    if (item.ID == 1000000)
+                    if (item.ID == ID.GNL)
                     {
                         luabnd.GNL = item.ReadDataAs<LUAGNL>();
                     }
-                    else if (item.ID == 1000001)
+                    else if (item.ID == ID.INFO)
                     {
                         luabnd.INFO = item.ReadDataAs<LUAINFO>();
                     }
