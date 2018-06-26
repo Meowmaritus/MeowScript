@@ -14,8 +14,12 @@ namespace MeowScript
 		private static string ConfigININame => Utils.Frankenpath(Utils.AssemblyDirectory, "\\MeowScript_Config.ini");
 
 		private static string DarkSoulsDataPath => ConfigIni["General", "DarkSoulsDataPath"];
+        internal static bool IsDarkSoulsRemastered => 
+            ConfigIni["General", "IsDarkSoulsRemastered"] == "1" 
+            || ConfigIni["General", "IsDarkSoulsRemastered"].ToLower() == "true";
 
-		static Commands()
+
+        static Commands()
 		{
 			if (!File.Exists(ConfigININame))
 			{

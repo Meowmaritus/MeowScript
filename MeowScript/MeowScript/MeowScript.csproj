@@ -53,10 +53,16 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lua50.dll">
+    <Content Include="Resources\lua50_x64\Lua.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\lua50.exe">
+    <Content Include="Resources\lua50_x64\LuaC.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\lua50_x86\lua50.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\lua50_x86\lua50.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\LuaAnalysisLog.txt">
@@ -65,11 +71,12 @@
     <Content Include="Resources\LuaAnalysisLog_DeS.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\luac50.exe">
+    <Content Include="Resources\lua50_x86\luac50.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="MeowScript_Config.ini" />
     <None Include="Resources\LuaGnlCheck.lua">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -77,5 +84,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
