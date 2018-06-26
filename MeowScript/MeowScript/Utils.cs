@@ -10,16 +10,8 @@ namespace MeowScript
         public static string ResourceDirectory => 
             Utils.Frankenpath(AssemblyDirectory, "Resources");
 
-		public static string AssemblyDirectory
-		{
-			get
-			{
-                string codeBase = Assembly.GetExecutingAssembly().CodeBase;
-                UriBuilder uri = new UriBuilder(codeBase);
-                string path = Uri.UnescapeDataString(uri.Path);
-                return Path.GetDirectoryName(path);
-            }
-		}
+		public static string AssemblyDirectory => 
+            new FileInfo(Assembly.GetExecutingAssembly().Location).DirectoryName;
 
 		public static string RemoveExtension(string filePath, string extension)
 		{
